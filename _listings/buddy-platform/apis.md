@@ -1,0 +1,46 @@
+---
+name: Buddy Platform
+x-slug: buddy-platform
+description: Buddy Platform is a lightweight, fast and flexible platform for collecting
+  and processing Internet of Things (IoT) data.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/61-buddy-platform.jpg
+x-kinRank: "9"
+x-alexaRank: "750236"
+tags: API Service Provider
+created: "2018-08-25"
+modified: "2018-08-25"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/buddy-platform/apis.md
+specificationVersion: "0.14"
+apis:
+- name: Buddy Platform
+  x-api-slug: buddy-platform
+  description: Buddy Platform is a lightweight, fast and flexible platform for collecting
+    and processing Internet of Things (IoT) data.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/61-buddy-platform.jpg
+  humanURL: http://buddy.com
+  baseURL: https:///
+  tags: API Service Provider
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/buddy-platform/openapi.md
+x-common:
+- type: x-blog
+  url: http://blog.buddy.com
+- type: x-crunchbase
+  url: http://www.crunchbase.com/company/buddy
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/buddy
+- type: x-email
+  url: info@buddy.com
+- type: x-github
+  url: https://github.com/buddy
+- type: x-twitter
+  url: https://twitter.com/buddyplatform
+- type: x-website
+  url: http://buddy.com
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
