@@ -11,22 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/bintray/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Bintray
-  x-api-slug: bintray
-  description: Bintray is a software publishing and sharing service for developers.
-    Bintray acts as a host and server for binary packages. Packages, users, and organizations
-    have profile pages.The Bintray API provides a RESTful interface for automating
-    Bintray functions. Example calls include uploading content, retrieving metadata
-    on users or packages, search, setting package attributes, and much more. API Key
-    required.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1603-bintray.jpg
-  humanURL: https://bintray.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/bintray/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.bintray.com

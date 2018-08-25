@@ -12,20 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/loggly/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Loggly
-  x-api-slug: loggly
-  description: Logglys API allows for easy access to your log data. Creating and utilizing
-    data for use in application development and deployment without having to mess
-    around with the dashboard. If youre in need of a python API check out Python Logging
-    and Hoover
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/611-loggly,-inc-.jpg
-  humanURL: http://loggly.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/loggly/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://logs-01.loggly.com/

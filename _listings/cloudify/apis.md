@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudify/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Cloudify Manager API
-  x-api-slug: cloudify-manager-api
-  description: Cloudify is an open source application and network orchestration framework
-    based on TOSCA, that supports hybrid cloud deployments.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11767-cloudify.jpg
-  humanURL: http://getcloudify.org/
-  baseURL: https:////http://localhost:8100
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudify/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://getcloudify.org/blog/

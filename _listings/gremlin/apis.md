@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gremlin/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Gremlin
-  x-api-slug: gremlin
-  description: Downtime is expensive and can hurt your brand. Gremlin provides engineers
-    with the framework to safely, securely, and easily simulate real outages with
-    an ever-growing library of attacks. Turn failure into resilience with chaos engineering.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28174-www-gremlin-com.jpg
-  humanURL: https://www.gremlin.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gremlin/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/gremlin-inc

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apimatic/apis.md
 specificationVersion: "0.14"
-apis:
-- name: APIMATIC API Transformer
-  x-api-slug: apimatic-api-transformer
-  description: 'A Developer Experience Platform for APIs. Services include: Developer
-    Portal Generation, SDK Generation, Documentation Generation, Code Sample Generation,
-    API Specification Conversion, CI/CD Integrations, Package Publishing'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2939-apimatic.jpg
-  humanURL: http://apimatic.io
-  baseURL: https://apimatic.io//api/transform
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apimatic/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://api.video.api.gallery.streamdata.io

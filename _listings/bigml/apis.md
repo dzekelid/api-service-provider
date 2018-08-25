@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/bigml/apis.md
 specificationVersion: "0.14"
-apis:
-- name: BigML
-  x-api-slug: bigml
-  description: Machine Learning made beautifully simple for everyone.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/159-bigml.jpg
-  humanURL: https://bigml.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/bigml/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://bigml.io

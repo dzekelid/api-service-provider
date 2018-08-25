@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/joyent/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Joyent
-  x-api-slug: joyent
-  description: Open source and Hybrid Cloud Infrastructure as a Service specialized
-    in running Containers, Serverless Docker and VMs securely at scale for over a
-    decade.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11655-joyent.jpg
-  humanURL: https://www.joyent.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/joyent/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.joyent.com/blog

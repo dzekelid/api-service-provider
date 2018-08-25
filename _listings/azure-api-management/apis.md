@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-api-management/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure API Management API
-  x-api-slug: azure-api-management-api
-  description: Use Azure API Management as a turnkey solution for publishing APIs
-    to external and internal customers. Quickly create consistent and modern API gateways
-    for existing back-end services hosted anywhere, secure and protect them from abuse
-    and overuse, and get insights into usage and health. Plus, automate and scale
-    developer onboarding to help get your API program up and running.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-api-management.png
-  humanURL: https://azure.microsoft.com/en-us/services/api-management/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-api-management/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.analysis.services.api.gallery.streamdata.io

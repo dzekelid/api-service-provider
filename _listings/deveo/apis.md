@@ -11,21 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/deveo/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Deveo
-  x-api-slug: deveo
-  description: Deveo is an enterprise-class, cloud-based software collaboration platform
-    built around version control. Deveo allows users to manage their Git, Subversion,
-    and Mercurial repositories and their access control. Deveo was built from the
-    ground up as an extensible program. Deveo????s REST API provides users with developer
-    access to all of their Deveo data objects.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1833-deveo.jpg
-  humanURL: https://deveo.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/deveo/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://deveo.com/api/

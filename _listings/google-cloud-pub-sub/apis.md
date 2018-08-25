@@ -16,18 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-pub-sub/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Pub/Sub API
-  x-api-slug: google-cloud-pubsub-api
-  description: Google Cloud Pub/Sub is a fully-managed real-time messaging service
-    that allows you to send and receive messages between independent applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png
-  humanURL: https://cloud.google.com/pubsub/docs/
-  baseURL: ://pubsub.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-pub-sub/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.prediction.api.gallery.streamdata.io

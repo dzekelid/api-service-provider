@@ -15,20 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-beacons/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Proximity Beacon API
-  x-api-slug: google-proximity-beacon-api
-  description: The Proximity Beacon API is a part of the Bluetooth low energy (BLE)beacon
-    platform, which also includesEddystone, an open beacon format from Google. The
-    Proximity Beacon API is a cloud service that allows you to manage data associated
-    with your BLE beacons using a REST interface.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-beacons.jpg
-  humanURL: https://developers.google.com/beacons/
-  baseURL: ://proximitybeacon.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-beacons/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.apps.script.execution.api.gallery.streamdata.io

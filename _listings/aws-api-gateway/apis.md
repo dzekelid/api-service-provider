@@ -20,27 +20,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-api-gateway/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS API Gateway API
-  x-api-slug: aws-api-gateway-api
-  description: Amazon API Gateway is a fully managed service that makes it easy for
-    developers to create, publish, maintain, monitor, and secure APIs at any scale.
-    With a few clicks in the AWS Management Console, you can create an API that acts
-    as a front door for applications to access data, business logic, or functionality
-    from your back-end services, such as workloads running on Amazon Elastic Compute
-    Cloud, code running on AWS Lambda, or any Web application. Amazon API Gateway
-    handles all the tasks involved in accepting and processing up to hundreds of thousands
-    of concurrent API calls, including traffic management, authorization and access
-    control, monitoring, and API version management. Amazon API Gateway has no minimum
-    fees or startup costs. You pay only for the API calls you receive and the amount
-    of data transferred out.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-api-gateway-icon.png
-  humanURL: https://aws.amazon.com/api-gateway/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-api-gateway/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://awhere.api.gallery.streamdata.io

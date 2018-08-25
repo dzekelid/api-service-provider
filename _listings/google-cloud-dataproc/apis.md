@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-dataproc/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Dataproc API
-  x-api-slug: google-cloud-dataproc-api
-  description: Use Google Cloud Dataproc, an Apache Hadoop, Apache Spark, Apache Pig,
-    and Apache Hive service, to easily process big datasets at low cost. Control your
-    costs by quickly creating managed clusters of any size and turning them off when
-    youre done. Cloud Dataproc integrates across Google Cloud Platform products, giving
-    you a powerful and complete data processing platform.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dataproc.png
-  humanURL: https://cloud.google.com/dataproc/
-  baseURL: ://dataproc.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-dataproc/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.container.builder.api.gallery.streamdata.io

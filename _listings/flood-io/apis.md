@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/flood-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Flood IO
-  x-api-slug: flood-io
-  description: Tricentis Flood lets you run distributed load tests across the globe
-    with JMeter or Gatling. Use our On Demand infrastructure or Host Your Own cloud.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
-  humanURL: https://flood.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/flood-io/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.flood.io/

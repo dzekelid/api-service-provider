@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-spectrum-database/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Spectrum Database API
-  x-api-slug: google-spectrum-database-api
-  description: The Google Spectrum Database API provides PAWS-compatible JSON-RPC
-    methods that allow devices to query the database to find available TV-band spectrum
-    at a given geolocation.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-spectrum-database-earth.jpg
-  humanURL: https://www.google.com/get/spectrumdatabase/
-  baseURL: ://www.googleapis.com//spectrum/v1explorer/paws
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-spectrum-database/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.slides.api.gallery.streamdata.io

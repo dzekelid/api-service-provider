@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cypress-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Cypress.io
-  x-api-slug: cypress-io
-  description: Fast, easy and reliable testing for anything that runs in a browser.
-    Install Cypress in seconds and take the pain out of front-end testing.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28233-www-cypress-io.jpg
-  humanURL: https://www.cypress.io
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cypress-io/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/cypress-io

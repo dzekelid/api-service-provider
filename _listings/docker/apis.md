@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/docker/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Docker
-  x-api-slug: docker
-  description: Docker is an open platform for developers and system administrators
-    to build, ship and run distributed applications. With Docker, IT organizations
-    shrink application delivery from months to minutes, frictionlessly move workloads
-    between data centers an...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11306-docker.jpg
-  humanURL: https://www.docker.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/docker/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.docker.com/

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nginx-web-server/apis.md
 specificationVersion: "0.14"
-apis:
-- name: nginx web server
-  x-api-slug: nginx-web-server
-  description: News about nginx (engine x) - a high performance free open source web
-    server powering busiest sites on the Internet. For NGINX Inc. news please check
-    @nginx
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2674-nginx-web-server.jpg
-  humanURL: http://nginx.org/en/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nginx-web-server/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.nginx.com/blog/

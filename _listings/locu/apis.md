@@ -12,22 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/locu/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Locu
-  x-api-slug: locu
-  description: Locu is a menu creation and management tool for restaurants. Locu allows
-    users to create, manage, and edit their menus online for both print and digital
-    menu formats. Menus are updated on the web automatically.The Locu API allows developers
-    to access and integrate the functionality and data of Locu with other applications.
-    Example API methods include retrieving price lists, accessing venue information,
-    and retrieving menu item information.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1339-locu.jpg
-  humanURL: http://locu.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/locu/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.locu.com/v2/

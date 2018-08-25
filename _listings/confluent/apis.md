@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/confluent/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Confluent
-  x-api-slug: confluent
-  description: Confluent, founded by the creators of Apache Kafka, delivers a complete
-    execution of Kafka for the Enterprise, to help you run your business in real time.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28237-www-confluent-io.jpg
-  humanURL: https://www.confluent.io
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/confluent/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.confluent.io/blog/

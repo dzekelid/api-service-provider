@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cisco-continuum/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Cisco Continuum
-  x-api-slug: cisco-continuum
-  description: Cisco is the worldwide leader in IT and networking. We help companies
-    of all sizes transform how people connect, communicate, and collaborate.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20032-cisco-continuum.jpg
-  humanURL: http://continuum.cisco.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cisco-continuum/openapi.md
+apis: []
 x-common:
 - type: x-blog-rss
   url: http://feeds.feedburner.com/cisco/Qfbs

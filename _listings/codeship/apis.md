@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/codeship/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Codeship
-  x-api-slug: codeship
-  description: Codeship is a fast and secure hosted Continuous Integration service
-    that scales with your needs. It supports GitHub, Bitbucket, and Gitlab projects.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20096-codeship.jpg
-  humanURL: https://codeship.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/codeship/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.codeship.com/

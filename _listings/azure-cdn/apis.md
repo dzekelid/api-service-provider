@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-cdn/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure CDN API
-  x-api-slug: azure-cdn-api
-  description: Ensuring a consistent user experience is important. If your websites
-    or mobile apps involve streaming media, gaming software, firmware updates (Smart
-    TVs, consumer electronic appliances) or IoT endpoints (cars, sensors), Content
-    Delivery Network helps you reduce load times, save bandwidth, and increase responsiveness.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/02-delivery.png
-  humanURL: https://azure.microsoft.com/en-us/services/cdn/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-cdn/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.blockchain.workbench.api.gallery.streamdata.io

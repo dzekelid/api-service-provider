@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/api-science/apis.md
 specificationVersion: "0.14"
-apis:
-- name: API Science
-  x-api-slug: api-science
-  description: Traditional monitoring services were designed long before APIs became
-    core to modern applications. API Science is designed specifically for monitoring
-    APIs. Sure, we understand REST, JSON, OAuth, XML. No problem.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-science-logo.png
-  humanURL: http://apiscience.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/api-science/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://api.science.api.gallery.streamdata.io

@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nordic-api-gateway/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Nordic API Gateway
-  x-api-slug: nordic-api-gateway
-  description: ""
-  image: ""
-  humanURL: https://nordicapigateway.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nordic-api-gateway/openapi.md
+apis: []
 x-common:
 - type: x-developer
   url: https://developer.nordicapigateway.com

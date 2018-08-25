@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/coffee-bean-tech/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Coffee Bean Tech
-  x-api-slug: coffee-bean-tech
-  description: Customer Identity to increase revenue, customer retention and customer
-    experience.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1001-coffee-bean-tech.jpg
-  humanURL: http://coffeebeantech.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/coffee-bean-tech/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/coffeebean-technology

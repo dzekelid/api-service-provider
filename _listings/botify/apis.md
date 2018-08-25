@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/botify/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Botify
-  x-api-slug: botify
-  description: We are passionate about SEO. Botify offers unparalleled insights into
-    your websites SEO through crawl data and log analysis.    Optimize your website
-    and see the organic traffic results youve been seeking. Founded in 2012, Botify
-    is a SaaS SEO platfo...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28561-botify.jpg
-  humanURL: http://www.botify.com
-  baseURL: https://api.botify.com//v1
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/botify/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://www.botify.com

@@ -17,24 +17,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-translate/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Translate API
-  x-api-slug: google-translate-api
-  description: Cloud Translation API provides a simple programmatic interface for
-    translating an arbitrary string into any supported language. Translation API is
-    highly responsive, so websites and applications can integrate with Translation
-    API for fast, dynamic translation of source text from the source language to a
-    target language (e.g., French to English). Language detection is also available
-    In cases where the source language is unknown. The underlying technology pushes
-    the boundary of Machine Translation and is updated constantly to seamlessly improve
-    translations and introduce new languages and language pairs.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-translate-hello-lead-2x.png
-  humanURL: https://translate.google.com/
-  baseURL: ://www.googleapis.com//language/translate
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-translate/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.tasks.api.gallery.streamdata.io

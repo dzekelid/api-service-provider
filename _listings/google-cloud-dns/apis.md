@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-dns/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud DNS API
-  x-api-slug: google-cloud-dns-api
-  description: Google Cloud DNS is a scalable, reliable and managed authoritative
-    Domain Name System (DNS) service running on the same infrastructure as Google.
-    It has low latency, high availability and is a cost-effective way to make your
-    applications and services available to your users. Cloud DNS translates requests
-    for domain names like www.google.com into IP addresses like 74.125.29.101. Cloud
-    DNS is programmable. You can easily publish and manage millions of DNS zones and
-    records using our simple user interface, command-line interface or API.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/global-dns-network.png
-  humanURL: https://cloud.google.com/dns/
-  baseURL: ://www.googleapis.com//dns/v1/projects
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-dns/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.deployment.manager.api.gallery.streamdata.io

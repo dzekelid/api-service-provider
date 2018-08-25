@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/kinvey/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Kinvey
-  x-api-slug: kinvey
-  description: Build better apps faster with Kinvey mobile Backend as a Service. We
-    power mission critical apps and entire digital businesses.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/67-kinvey.jpg
-  humanURL: http://www.kinvey.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/kinvey/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.kinvey.com/blog

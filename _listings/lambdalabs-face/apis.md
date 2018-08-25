@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lambdalabs-face/apis.md
 specificationVersion: "0.14"
-apis:
-- name: LambdaLabs Face
-  x-api-slug: lambdalabs-face
-  description: High-powered machines built specifically for Deep Learning applications.
-    Pre-built and configured with Deep Learning software like Theano, Torch, and CUDA.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1438-lambdalabs-face.jpg
-  humanURL: http://api.lambdal.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lambdalabs-face/openapi.md
+apis: []
 x-common:
 - type: x-github
   url: https://github.com/lambdal/

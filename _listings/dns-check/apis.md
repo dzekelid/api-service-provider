@@ -13,21 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/dns-check/apis.md
 specificationVersion: "0.14"
-apis:
-- name: DNS Record Group Monitoring API
-  x-api-slug: dns-record-group-monitoring-api
-  description: A DNS record group is a logical collection of DNS records. DNS record
-    groups can have a one-to-one correlation with zone files, but other types of groupings
-    are possible as well, such as grouping by service or customer. See the DNS record
-    groups page for more details. The DNS Check API is used to request data for either
-    a specific record group, or all DNS record groups owned by your account.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18972-dns-check.jpg
-  humanURL: https://www.dnscheck.co/
-  baseURL: https://www.dnscheck.co//api/v1
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/dns-check/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://disqus.api.gallery.streamdata.io

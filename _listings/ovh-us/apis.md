@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ovh-us/apis.md
 specificationVersion: "0.14"
-apis:
-- name: OVH US
-  x-api-slug: ovh-us
-  description: OVH is a global, hyper-scale cloud provider delivering best-in-class
-    hosted private cloud, public cloud, and dedicated server solutions. We just opened
-    our first U.S. data center; learn more about our limited time introductory offer!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28179-ovhcloud-com.jpg
-  humanURL: https://ovhcloud.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ovh-us/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/ovh-us

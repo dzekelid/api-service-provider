@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-container-service/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Container Service API
-  x-api-slug: azure-container-service-api
-  description: Azure Container Service optimizes the configuration of popular open-source
-    tools and technologies specifically for Azure. You get an open solution that offers
-    portability for both your containers and your application configuration. You select
-    the size, number of hosts, and choice of orchestrator tools&mdash;Container Service
-    handles everything else.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-container-service.png
-  humanURL: https://azure.microsoft.com/en-us/services/container-service/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-container-service/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.container.registry.api.gallery.streamdata.io

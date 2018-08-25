@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/blockspring/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Blockspring
-  x-api-slug: blockspring
-  description: Blockspring makes it easy to find data, run algorithms, automate reports,
-    and enrich lists from Google Sheets, Excel, Tableau, Slack, and Bubble. Become
-    the super analyst on your team, without needing to learn any new tools.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6694-blockspring.jpg
-  humanURL: https://api.blockspring.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/blockspring/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://open.blockspring.com/blog

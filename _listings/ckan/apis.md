@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ckan/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CKAN
-  x-api-slug: ckan
-  description: 'The #opensource #opendata platform. Powering http://t.co/GdXNmN65Sf,
-    http://t.co/9O9OJjJnJd & portals around the world: http://t.co/YEGynxgDgM. Join
-    us!'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11383-ckan.jpg
-  humanURL: http://ckan.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ckan/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://ckan.org/blog/

@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/fairwaves/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Fairwaves
-  x-api-slug: fairwaves
-  description: Fairwaves make rural mobile coverage profitable. We have built a unique
-    technology that significantly lowers the cost of deploying and operating mobile
-    networks in rural regions. Fairwaves is gaining a footprint in the telecommunications
-    space by helping Mobile Network Operators (MNO) to roll out mobile networks to
-    reach up-to 1.6 billion new customers.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fairwaves.png
-  humanURL: https://fairwaves.co/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/fairwaves/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://fairwaves.co/blog/

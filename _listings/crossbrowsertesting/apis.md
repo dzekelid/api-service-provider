@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crossbrowsertesting/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CrossBrowserTesting
-  x-api-slug: crossbrowsertesting
-  description: Browser Testing made simple! Run automated, visual, and manual tests
-    on 1500+ real browsers and mobile devices. Test more browsers, in less time.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1043-crossbrowsertesting.jpg
-  humanURL: http://crossbrowsertesting.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crossbrowsertesting/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://crossbrowsertesting.com/blog

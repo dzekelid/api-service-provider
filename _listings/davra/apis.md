@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/davra/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Davra
-  x-api-slug: davra
-  description: Davra???s RuBANtm solution has been designed from the ground up to
-    completely control all elements of an IoT installation from initial deployment,
-    through ongoing network and data management and our open API allows for the translation
-    of raw sensor data ...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2954-davra-networks.jpg
-  humanURL: http://www.davranetworks.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/davra/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.davranetworks.com/news

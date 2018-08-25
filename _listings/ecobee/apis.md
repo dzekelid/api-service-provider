@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ecobee/apis.md
 specificationVersion: "0.14"
-apis:
-- name: ecobee
-  x-api-slug: ecobee
-  description: Did you know?     ??? Thermostats represent 50-70% of your home energy
-    use.  ??? The average ecobee customer saves 26% on their energy bill each year.  ???
-    96% of ecobee customers would recommend ecobee to a friend.  ??? Over 80% of ecobee
-    customers run an ene...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1835-ecobee.jpg
-  humanURL: http://www.ecobee.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ecobee/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.ecobee.com/blog/

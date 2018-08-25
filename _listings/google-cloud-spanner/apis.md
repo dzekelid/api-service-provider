@@ -20,27 +20,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-spanner/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Spanner API
-  x-api-slug: google-cloud-spanner-api
-  description: 'Cloud Spanner is the first and only relational database service that
-    is both strongly consistent and horizontally scalable. With Cloud Spanner you
-    enjoy all the traditional benefits of a relational database: ACID transactions,
-    relational schemas (and schema changes without downtime), SQL queries, high performance,
-    and high availability. But unlike any other relational database service, Cloud
-    Spanner scales horizontally, to hundreds or thousands of servers, so it can handle
-    the highest of transactional workloads. With automatic scaling, synchronous data
-    replication, and node redundancy, Cloud Spanner delivers up to 99.999% (five 9s)
-    of availability for your mission critical applications. In fact, Google&rsquo;s
-    internal Spanner service has been handling millions of queries per second from
-    many Google services for years.'
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-spanner-global-scale-consistency_2x.png
-  humanURL: https://cloud.google.com/spanner/
-  baseURL: ://spanner.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-spanner/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.source.repositories.api.gallery.streamdata.io

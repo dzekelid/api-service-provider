@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lateral/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Lateral
-  x-api-slug: lateral
-  description: Laterals mission is to help people discover the information they need
-    when they need it. In doing so we hope to accelerate discovery, understanding
-    and collaboration in a wide range of disciplines.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18716-lateral.jpg
-  humanURL: https://lateral.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lateral/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.lateral.io/

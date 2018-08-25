@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/drone-systems/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Drone Systems
-  x-api-slug: drone-systems
-  description: ""
-  image: ""
-  humanURL: http://www.dronesystems.us/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/drone-systems/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.dronesystems.us/blog

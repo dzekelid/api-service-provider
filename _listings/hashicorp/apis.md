@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/hashicorp/apis.md
 specificationVersion: "0.14"
-apis:
-- name: HashiCorp
-  x-api-slug: hashicorp
-  description: HashiCorp enables organizations to have consistent workflows to provision,
-    secure, connect, and run any infrastructure for any application.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19981-hashicorp.jpg
-  humanURL: https://www.hashicorp.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/hashicorp/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.hashicorp.com/blog.html

@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/odata-org/apis.md
 specificationVersion: "0.14"
-apis:
-- name: OData.org
-  x-api-slug: odata-org
-  description: OData (Open Data Protocol) is an OASIS standard that defines the best
-    practice for building and consuming RESTful APIs. OData helps you focus on your
-    business logic while building RESTful APIs without having to worry about the approaches
-    to define request and response headers, status codes, HTTP methods, URL conventions,
-    media types, payload formats and query options etc.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
-  humanURL: http://www.odata.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/odata-org/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.odata.org/blog/

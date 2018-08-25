@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-sql-database/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure SQL Database API
-  x-api-slug: azure-sql-database-api
-  description: Make building and maintaining applications easier and more productive.
-    With built-in intelligence that learns app patterns and adapts to maximize performance,
-    reliability, and data protection, SQL Database is a cloud database built for developers.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-sql-01-stop-worrying.png
-  humanURL: https://azure.microsoft.com/en-us/services/sql-database/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-sql-database/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.service.fabric.api.gallery.streamdata.io

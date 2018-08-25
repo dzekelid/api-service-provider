@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/junar-com/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Junar.com
-  x-api-slug: junar-com
-  description: Fast, easy, and affordable way to transform data into resources that
-    businesses, governments, NGOs, academia and citizens can use.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/827-junar-com.jpg
-  humanURL: http://www.junar.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/junar-com/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.junar.com

@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/commoncrawl/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CommonCrawl
-  x-api-slug: commoncrawl
-  description: CommonCrawl is a non-profit foundation dedicated to the open web.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1920-commoncrawl.jpg
-  humanURL: http://commoncrawl.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/commoncrawl/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://commoncrawl.org/blog/

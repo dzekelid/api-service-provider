@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/marklogic/apis.md
 specificationVersion: "0.14"
-apis:
-- name: MarkLogic
-  x-api-slug: marklogic
-  description: MarkLogic provides enterprise solutions for your business by enabling
-    operational big data applications with NoSQL databases and data integration.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20018-marklogic.jpg
-  humanURL: http://www.marklogic.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/marklogic/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://developer.marklogic.com/blog

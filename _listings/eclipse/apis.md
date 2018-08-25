@@ -12,20 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/eclipse/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Eclipse
-  x-api-slug: eclipse
-  description: Facebook probably not the best place to post questions. If you have
-    questions about Eclipse software, the forums is probably the best place to start
-    (http://www.eclipse.org/forums). If youre not sure where your question fits, try
-    the newcomer forum ...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11773-mosquitto.jpg
-  humanURL: https://www.eclipse.org/mosquitto/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/eclipse/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/eclipse-foundation

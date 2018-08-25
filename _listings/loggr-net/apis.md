@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/loggr-net/apis.md
 specificationVersion: "0.14"
-apis:
-- name: loggr.net
-  x-api-slug: loggr-net
-  description: Monitor your web app events in Loggr, get powerful analytics, notifications
-    and sharing from anywhere... in realtime.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/838-loggr-net.jpg
-  humanURL: http://loggr.net/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/loggr-net/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.loggr.net/

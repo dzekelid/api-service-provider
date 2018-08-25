@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudflare/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CloudFlare
-  x-api-slug: cloudflare
-  description: Here at Cloudflare, we make the Internet work the way it should. Offering
-    CDN, DNS, DDoS protection and security, find out how we can help your site.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18929-cloudflare.jpg
-  humanURL: https://www.cloudflare.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudflare/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://cloud.elements.api.gallery.streamdata.io

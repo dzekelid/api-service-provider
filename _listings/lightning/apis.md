@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lightning/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Lightning
-  x-api-slug: lightning
-  description: Lightning data visualization server. By @mathisonian and @thefreemanlab
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11772-lightning.jpg
-  humanURL: http://lightning-viz.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lightning/openapi.md
+apis: []
 x-common:
 - type: x-developer
   url: http://lightning-viz.org/documentation/

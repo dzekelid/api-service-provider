@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/digicert/apis.md
 specificationVersion: "0.14"
-apis:
-- name: DigiCert
-  x-api-slug: digicert
-  description: SSL certificates by DigiCert secure unlimited servers with the strongest
-    encryption and highest authentication available.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19949-digicert.jpg
-  humanURL: https://www.digicert.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/digicert/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.digicert.com/

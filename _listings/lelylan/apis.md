@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lelylan/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Lelylan
-  x-api-slug: lelylan
-  description: Lelylan is a project called to life by the need to solve technological
-    limitations that home automation (aka domotics) faces today. Our houses are furnished
-    by numerous devices like appliances, lighting systems, alarms, irrigation systems,
-    smoke and gas detectors, heating, cooling, audio, video systems and much more.
-    Unluckily, those devices use different standards and they can not communicate
-    with each other. The consequences are higher prices, technical limitations, few
-    services and a lot of confusion for the end user.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1860-lelylan.jpg
-  humanURL: http://lelylan.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lelylan/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://lelylan.com/blog/

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/authentiq-connect/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Authentiq Connect
-  x-api-slug: authentiq-connect
-  description: Authentiq offers the convenience of passwordless authentication with
-    the safety of two step verification. Sign up for Authentiq today, and never think
-    about authentication again.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/authentiq-logo.png
-  humanURL: http://authentiq.com
-  baseURL: https://connect.authentiq.io//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/authentiq-connect/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://authentiq.com

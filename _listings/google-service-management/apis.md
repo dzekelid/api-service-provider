@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-service-management/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Service Management API
-  x-api-slug: google-service-management-api
-  description: Google Service Management is an infrastructure service of Google Cloud
-    Platform that manages other APIs and services, including Googles own Cloud Platform
-    services and their APIs, and services created using Google Cloud Endpoints.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
-  humanURL: https://cloud.google.com/service-management/overview
-  baseURL: ://servicemanagement.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-service-management/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.service.control.api.gallery.streamdata.io

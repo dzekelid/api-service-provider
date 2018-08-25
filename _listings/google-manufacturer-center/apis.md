@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-manufacturer-center/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Manufacturer Center API
-  x-api-slug: google-manufacturer-center-api
-  description: Public API for managing Manufacturer Center related data. Impact the
-    way your products and product details appear within Google Shopping. You???ll
-    attract more shoppers and elevate your brands online. With Manufacturer Center,
-    you provide the images, descriptions, and product details to improve how your
-    products appear to the world. That information helps create more effective listings
-    on Google Shopping and other Google services. If anything changes, you can provide
-    new product data at any time.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-manufacturer-center-800x546.png
-  humanURL: https://developers.google.com/manufacturers/quickstart
-  baseURL: ://manufacturers.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-manufacturer-center/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.knowledge.graph.search.api.gallery.streamdata.io

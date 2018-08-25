@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-service-fabric/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Service Fabric API
-  x-api-slug: azure-service-fabric-api
-  description: Service Fabric is a microservices platform used to build scalable,
-    reliable, and easily managed applications for the cloud. Addressing the significant
-    challenges in developing and managing cloud applications, Service Fabric allows
-    developers and administrators to avoid solving complex infrastructure problems
-    and focus instead on implementing mission-critical, demanding workloads.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/service-fabric-02.png
-  humanURL: https://azure.microsoft.com/en-us/services/service-fabric/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-service-fabric/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.service.bus.api.gallery.streamdata.io

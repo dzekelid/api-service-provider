@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/giant-swarm/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Giant Swarm
-  x-api-slug: giant-swarm
-  description: Giant Swarm provides leading organizations an enterprise-grade, multi-tenant
-    container platform built on top of Kubernetes both on-premises and in the cloud
-    (AWS, Azure, GCE) with 24/7 management and enterprise support to easily run their
-    cloud native ...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19929-giant-swarm.jpg
-  humanURL: https://giantswarm.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/giant-swarm/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.giantswarm.io/

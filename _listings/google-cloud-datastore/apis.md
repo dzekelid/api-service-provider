@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-datastore/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Datastore API
-  x-api-slug: google-cloud-datastore-api
-  description: Cloud Datastore is a highly-scalable NoSQL database for your applications.
-    Cloud Datastore automatically handles sharding and replication, providing you
-    with a highly available and durable database that scales automatically to handle
-    your applications load. Cloud Datastore provides a myriad of capabilities such
-    as ACID transactions, SQL-like queries, indexes and much more.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nosql-tree.png
-  humanURL: https://cloud.google.com/datastore/
-  baseURL: ://datastore.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-datastore/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.dataproc.api.gallery.streamdata.io

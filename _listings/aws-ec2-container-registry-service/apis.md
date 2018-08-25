@@ -19,27 +19,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-ec2-container-registry-service/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS EC2 Container Registry API
-  x-api-slug: aws-ec2-container-registry-api
-  description: Amazon EC2 Container Registry (ECR) is a fully-managedDockercontainer
-    registry that makes it easy for developers to store, manage, and deploy Docker
-    container images. Amazon ECR is integrated withAmazon EC2 Container Service (ECS),
-    simplifying your development to production workflow. Amazon ECR eliminates the
-    need to operate your own container repositories or worry about scaling the underlying
-    infrastructure. Amazon ECR hosts your images in a highly available and scalable
-    architecture, allowing you to reliably deploy containers for your applications.
-    Integration with AWS Identity and Access Management (IAM) provides resource-level
-    control of each repository. With Amazon ECR, there are no upfront fees or commitments.
-    You pay only for the amount of data you store in your repositories and data transferred
-    to the Internet.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECR.png
-  humanURL: https://aws.amazon.com/ecr/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-ec2-container-registry-service/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.ec2.api.gallery.streamdata.io

@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-scheduler/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Scheduler API
-  x-api-slug: azure-scheduler-api
-  description: Azure Scheduler lets you create jobs in the cloud that invoke services
-    inside and outside of Azure&mdash;such as calling HTTP/S endpoints or posting
-    messages to Azure Storage queues, or Azure Service Bus queues or topics. Run jobs
-    right away, on a recurring schedule, or at some point in the future.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-scheduler-create.png
-  humanURL: https://azure.microsoft.com/en-us/services/scheduler/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-scheduler/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.resource.manager.api.gallery.streamdata.io

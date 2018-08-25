@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-redis-cache/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Redis Cache API
-  x-api-slug: azure-redis-cache-api
-  description: Azure Redis Cache is based on the popular open source Redis cache.
-    It gives you access to a secure, dedicated Redis cache, managed by Microsoft and
-    accessible from any application within Azure.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-redis-cache-performance.png
-  humanURL: https://azure.microsoft.com/en-us/services/cache/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-redis-cache/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.recovery.services.api.gallery.streamdata.io

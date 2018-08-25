@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nylas/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Nylas
-  x-api-slug: nylas
-  description: Nylas makes it incredibly easy to interface with email, scheduling,
-    and contacts. It&rsquo;s the modern email messaging platform for enterprise apps.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-05-08 at 1.45.11 PM.png
-  humanURL: https://nylas.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nylas/openapi.md
+apis: []
 x-common:
 - type: x-change-log
   url: https://nylas.com/cloud/docs#api_changelog

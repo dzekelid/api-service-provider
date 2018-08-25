@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-user-accounts/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud User Accounts API
-  x-api-slug: google-cloud-user-accounts-api
-  description: Service for managing the global Google Cloud user accounts. This API
-    reference is organized by resource type. Each resource type has one or more data
-    representations and one or more methods.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
-  humanURL: https://cloud.google.com/compute/docs/access/user-accounts/api/latest/
-  baseURL: ://www.googleapis.com//clouduseraccounts/vm_alpha/projects
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-user-accounts/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.storage.api.gallery.streamdata.io

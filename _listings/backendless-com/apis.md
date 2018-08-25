@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/backendless-com/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Backendless.com
-  x-api-slug: backendless-com
-  description: Build awesome Android, iOS and JS apps without thinking about servers.
-    Start for free and grow your app with the most advanced mBaaS in the world.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1909-backendless-com.jpg
-  humanURL: https://backendless.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/backendless-com/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://backendless.com/blog/

@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/blackstratus/apis.md
 specificationVersion: "0.14"
-apis:
-- name: BlackStratus
-  x-api-slug: blackstratus
-  description: Unparalleled security visibility without costly downtime. Compliant
-    operations made simple. Try BlackStatus managed security services & solutions
-    for MSPs.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9070-blackstratus.jpg
-  humanURL: http://www.blackstratus.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/blackstratus/openapi.md
+apis: []
 x-common:
 - type: x-twitter
   url: https://twitter.com/blackstratusinc

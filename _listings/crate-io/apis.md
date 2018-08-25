@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crate-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Crate.io
-  x-api-slug: crate-io
-  description: An open source real-time SQL database with integrated search that is
-    simple to scale. It is ideal for storing and analyzing IoT and machine data in
-    real time.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19926-crate.jpg
-  humanURL: https://crate.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crate-io/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://crate.io/blog

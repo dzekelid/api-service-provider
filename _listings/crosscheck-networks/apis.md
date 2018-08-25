@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crosscheck-networks/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Crosscheck Networks
-  x-api-slug: crosscheck-networks
-  description: Web services testing
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/crosscheck-networks.png
-  humanURL: http://www.crosschecknet.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crosscheck-networks/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://soa-testing.blogspot.com/

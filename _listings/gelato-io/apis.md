@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gelato-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Gelato.io
-  x-api-slug: gelato-io
-  description: A tool for creating and maintaining excellent Developer Portals and
-    API or Technical Documentation
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18858-gelato-io.jpg
-  humanURL: https://gelato.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gelato-io/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/gelato-io

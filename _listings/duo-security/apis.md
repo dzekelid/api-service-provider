@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/duo-security/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Duo Security
-  x-api-slug: duo-security
-  description: Duo???s Trusted Access platform verifies the identity of your users
-    with two-factor authentication and security health of their devices before they
-    connect to the apps you want them to access.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1050-duo-security.jpg
-  humanURL: http://www.duosecurity.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/duo-security/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://api.duosecurity.com

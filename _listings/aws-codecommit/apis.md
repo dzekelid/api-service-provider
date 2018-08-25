@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-codecommit/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS CodeCommit API
-  x-api-slug: aws-codecommit-api
-  description: AWS CodeCommit is a fully-managed source control service that makes
-    it easy for companies to host secure and highly scalable private Git repositories.
-    CodeCommit eliminates the need to operate your own source control system or worry
-    about scaling its infrastructure. You can use CodeCommit to securely store anything
-    from source code to binaries, and it works seamlessly with your existing Git tools.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodeCommit.png
-  humanURL: https://aws.amazon.com/codecommit/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-codecommit/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.codebuild.api.gallery.streamdata.io

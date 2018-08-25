@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/pronovix/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Pronovix
-  x-api-slug: pronovix
-  description: Pronovix is a software development company building and integrating
-    complex web systems in Drupal. We operate internationally, with offices in Belgium
-    and Hungary, working to become a valuable partner, rather than a simple supplier
-    for our clients worl...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21079-pronovix-com.jpg
-  humanURL: http://pronovix.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/pronovix/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/pronovix

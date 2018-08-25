@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/bad-testing/apis.md
 specificationVersion: "0.14"
-apis:
-- name: BAD TESTING
-  x-api-slug: bad-testing
-  description: BAD TESTING offers software testing consulting services & helps you
-    manage risks associated with technology changes. We offer an advanced and versatile
-    skill set in software quality assurance, testing, and configuration to ensure
-    effective and on time...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2619-bad-testing.jpg
-  humanURL: http://www.badtesting.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/bad-testing/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/bad-testing

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-search/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Search API
-  x-api-slug: azure-search-api
-  description: Azure Search is a fully-managed service for adding sophisticated search
-    capabilities to web and mobile applications without the typical complexities of
-    full-text search.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-search.png
-  humanURL: https://azure.microsoft.com/en-us/services/search/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-search/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.scheduler.api.gallery.streamdata.io

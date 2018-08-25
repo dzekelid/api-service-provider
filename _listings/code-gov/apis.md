@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/code-gov/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Code.gov
-  x-api-slug: code-gov
-  description: Code.gov leverages the power of code sharing and collaboration to help
-    the US Government cut down on duplicative software development and save millions
-    of taxpayer dollars for the American people.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/code-gov-logo.jpg
-  humanURL: https://code.gov/
-  baseURL: https://api.code.gov//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/code-gov/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://clover.api.gallery.streamdata.io

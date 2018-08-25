@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ca-technologies/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CA Technologies
-  x-api-slug: ca-technologies
-  description: Transform digital business with CA Technologies. Software and expertise
-    to create a Modern Software Factory built on agility, automation, insights and
-    security.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18906-ca-technologies.jpg
-  humanURL: http://www.ca.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ca-technologies/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blogs.ca.com/?intcmp=footernav

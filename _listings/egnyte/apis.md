@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/egnyte/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Egnyte
-  x-api-slug: egnyte
-  description: Egnyte provides secure Enterprise File Sharing and Content Governance
-    built from the Cloud down. Access, Share and Control 100% of your data from anywhere
-    using any smartphone, tablet or computer.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28291-developers-egnyte-com.jpg
-  humanURL: https://developers.egnyte.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/egnyte/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/egnyte

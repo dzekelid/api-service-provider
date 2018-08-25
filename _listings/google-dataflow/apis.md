@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-dataflow/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Dataflow API
-  x-api-slug: google-cloud-dataflow-api
-  description: Dataflow is a unified programming model and a managed service for developing
-    and executing a wide range of data processing patterns including ETL, batch computation,
-    and continuous computation. Cloud Dataflow frees you from operational tasks like
-    resource management and performance optimization.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-dataflow.jpeg
-  humanURL: https://cloud.google.com/dataflow/
-  baseURL: ://dataflow.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-dataflow/openapi.md
+apis: []
 x-common:
 - type: x-hacker-news-search
   url: Google DataFlow

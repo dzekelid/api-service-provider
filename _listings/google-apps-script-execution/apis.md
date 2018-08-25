@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-apps-script-execution/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Apps Script Execution API
-  x-api-slug: google-apps-script-execution-api
-  description: Runs a function in an Apps Script project. The project must be deployed
-    for use with the Apps Script Execution API. This method requires authorization
-    with an OAuth 2.0 token that includes at least one of the scopes listed in the
-    Authorization section; script projects that do not require authorization cannot
-    be executed through this API. To find the correct scopes to include in the authentication
-    token, open the project in the script editor, then select File &gt; Project properties
-    and click the Scopes tab.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-apps-scripts-services.png
-  humanURL: https://developers.google.com/apps-script/execution/rest/v1/scripts/run
-  baseURL: ://script.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-apps-script-execution/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.apps.admin.sdk.api.gallery.streamdata.io

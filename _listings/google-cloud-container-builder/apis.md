@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-container-builder/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Container Builder API
-  x-api-slug: google-cloud-container-builder-api
-  description: Google Cloud Container Builder lets you create Docker container images
-    from application source code located in Google Cloud Storage. Container images
-    created by Container Builder are automatically stored in Google Container Registry.
-    You can deploy the container images you create on Google Container Engine, Google
-    Compute Engine, Google App Engine flexible environment or other services where
-    you can run applications from Docker containers.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/container-builder-lead.png
-  humanURL: https://cloud.google.com/container-builder/
-  baseURL: ://cloudbuild.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-container-builder/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.billing.api.gallery.streamdata.io

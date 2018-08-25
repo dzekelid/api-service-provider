@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-lambda/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Lambda API
-  x-api-slug: aws-lambda-api
-  description: AWS Lambda is a zero-administration compute platform for back-end web
-    developers that runs your code for you in the AWScloudand provides you with a
-    fine-grained pricing structure. AWS Lambda runs your back-end code on its own
-    AWS compute fleet of Amazon Elastic Compute Cloud (Amazon EC2) instances across
-    multiple Availability Zones in a region, which provides the high availability,
-    security, performance, and scalability of the AWS infrastructure.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AWSLambda.png
-  humanURL: http://docs.aws.amazon.com/lambda/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-lambda/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.kinesis.analytics.api.gallery.streamdata.io

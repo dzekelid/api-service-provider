@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-storage/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Storage API
-  x-api-slug: azure-storage-api
-  description: Azure Storage offers non-relational data storage including Blob Storage,
-    Table Storage, Queue Storage, and Files.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-storage.png
-  humanURL: https://azure.microsoft.com/en-us/services/storage/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-storage/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.sql.database.api.gallery.streamdata.io

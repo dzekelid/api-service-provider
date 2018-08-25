@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/load-impact/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Load Impact
-  x-api-slug: load-impact
-  description: Load Impact is a cloud-based SaaS for load testing and website optimization.   We
-    offer load testing and reporting as a service. Try it for free at www.loadimpact.com
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10197-load-impact.jpg
-  humanURL: http://loadimpact.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/load-impact/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.loadimpact.com/

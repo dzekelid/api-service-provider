@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cucumber/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Cucumber
-  x-api-slug: cucumber
-  description: Simple, human collaboration. Tweets from the Cucumber team.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18742-cucumber.jpg
-  humanURL: https://cucumber.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cucumber/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://cucumber.io/blog

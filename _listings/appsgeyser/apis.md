@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appsgeyser/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AppsGeyser
-  x-api-slug: appsgeyser
-  description: Convert any web content into an Android App using AppsGeyser - The
-    Free Android App Maker. Build Your Own App for Free and Make Money.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/352-appsgeyser.jpg
-  humanURL: http://www.appsgeyser.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appsgeyser/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.appsgeyser.com/blog/

@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/choicetrade/apis.md
 specificationVersion: "0.14"
-apis:
-- name: ChoiceTrade
-  x-api-slug: choicetrade
-  description: Get the best online stock trading platform at ChoiceTrade. Offering
-    cheapest flat fee prices for option trading brokers. For more Visit our website!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28336-www-choicetrade-com.jpg
-  humanURL: http://www.choicetrade.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/choicetrade/openapi.md
+apis: []
 x-common:
 - type: x-email
   url: service@choicetrade.com

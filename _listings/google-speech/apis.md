@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-speech/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Speech API
-  x-api-slug: google-cloud-speech-api
-  description: Google Cloud Speech API enables developers to convert audio to text
-    by applying powerful neural network models in an easy to use API. The API recognizes
-    over 80 languages and variants, to support your global user base. You can transcribe
-    the text of users dictating to an application&rsquo;s microphone, enable command-and-control
-    through voice, or transcribe audio files, among many other use cases. Recognize
-    audio uploaded in the request, and integrate with your audio storage on Google
-    Cloud Storage, by using the same technology Google uses to power its own products.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/speech-api-lead_2x.png
-  humanURL: https://cloud.google.com/speech/
-  baseURL: ://speech.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-speech/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.spectrum.database.api.gallery.streamdata.io

@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nevatech/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Nevatech
-  x-api-slug: nevatech
-  description: API Management and SOA Governance for enterprises and developers
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27-nevatech.jpg
-  humanURL: http://www.nevatech.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nevatech/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.nevatech.com/blog

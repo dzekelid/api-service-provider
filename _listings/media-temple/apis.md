@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/media-temple/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Media Temple
-  x-api-slug: media-temple
-  description: Premium web and cloud hosting, VPS hosting, and dedicated server solutions
-    for web designers, developers and creatives. Industry leading live support.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/618-media-temple.jpg
-  humanURL: https://mediatemple.net/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/media-temple/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://mediatemple.net/blog/

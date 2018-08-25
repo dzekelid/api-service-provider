@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/logentries/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Logentries
-  x-api-slug: logentries
-  description: Log management and analytics by Logentries for development, IT operations
-    and Security teams. 100% free service trusted by thousands of customers worldwide.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11762-logentries.jpg
-  humanURL: https://logentries.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/logentries/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.logentries.com/

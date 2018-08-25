@@ -19,26 +19,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cognito/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Cognito API
-  x-api-slug: aws-cognito-api
-  description: Amazon Cognito lets you easily add user sign-up and sign-in to your
-    mobile and web apps. With Amazon Cognito, you also have the options to authenticate
-    users through social identity providers such as Facebook, Twitter, or Amazon,
-    with SAML identity solutions, or by using your own identity system. In addition,
-    Amazon Cognito enables you to save data locally on users devices, allowing your
-    applications to work even when the devices are offline. You can then synchronize
-    data across users devices so that their app experience remains consistent regardless
-    of the device they use. With Amazon Cognito, you can focus on creating great app
-    experiences instead of worrying about building, securing, and scaling a solution
-    to handle user management, authentication, and sync across devices.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png
-  humanURL: https://aws.amazon.com/cognito/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cognito/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.codedeploy.api.gallery.streamdata.io

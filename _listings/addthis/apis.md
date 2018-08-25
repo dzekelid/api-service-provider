@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/addthis/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AddThis
-  x-api-slug: addthis
-  description: AddThis website tools include share buttons, targeting tools and content
-    recommendations help you get more likes, shares and followers and keep them coming
-    back.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1814-addthis.jpg
-  humanURL: http://www.addthis.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/addthis/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api.addthis.com/

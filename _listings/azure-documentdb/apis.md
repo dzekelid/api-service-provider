@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-documentdb/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure DocumentDB API
-  x-api-slug: azure-documentdb-api
-  description: Azure DocumentDB is a fully-managed NoSQL document database service
-    that offers querying and transaction-processing over schema-free data, predictable
-    and reliable performance, and rapid development.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-document-db-03-replicate.png
-  humanURL: https://azure.microsoft.com/en-us/services/documentdb/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-documentdb/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.dns.api.gallery.streamdata.io

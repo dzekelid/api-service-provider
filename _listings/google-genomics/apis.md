@@ -14,22 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-genomics/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Genomics API
-  x-api-slug: google-genomics-api
-  description: Google Genomics helps the life science community organize the world&rsquo;s
-    genomic information and make it accessible and useful. Big genomic data is here
-    today, with petabytes rapidly growing toward exabytes. Through our extensions
-    to Google Cloud Platform, you can apply the same technologies that power Google
-    Search and Maps to securely store, process, explore, and share large, complex
-    datasets.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/power-your-science.png
-  humanURL: https://cloud.google.com/genomics/
-  baseURL: ://genomics.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-genomics/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.fusion.tables.api.gallery.streamdata.io

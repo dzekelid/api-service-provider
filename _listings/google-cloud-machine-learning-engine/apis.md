@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-machine-learning-engine/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Machine Learning API
-  x-api-slug: google-cloud-machine-learning-api
-  description: Google Cloud Machine Learning Engine is a managed service that enables
-    you to easily build machine learning models, that work on any type of data, of
-    any size. Create your model with the powerful TensorFlow framework that powers
-    many Google products, from Google Photos to Google Cloud Speech. Build models
-    of any size with our managed scalable infrastructure. Your trained model is immediately
-    available for use with our global prediction platform that can support thousands
-    of users and TBs of data.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-ml.png
-  humanURL: https://cloud.google.com/ml-engine/
-  baseURL: ://ml.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-machine-learning-engine/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.key.management.service.api.gallery.streamdata.io

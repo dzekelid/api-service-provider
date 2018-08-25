@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-kinesis/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Kinesis Firehose API
-  x-api-slug: aws-kinesis-firehose-api
-  description: Amazon Kinesis Firehose is the easiest way to load streaming data into
-    AWS. It can capture, transform, and load streaming data into Amazon Kinesis Analytics,
-    Amazon S3, Amazon Redshift, and Amazon Elasticsearch Service, enabling near real-time
-    analytics with existing business intelligence tools and dashboards you are already
-    using today.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Analytics_AmazonKinesis_AmazonKinesisFirehose.png
-  humanURL: https://aws.amazon.com/kinesis/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-kinesis/openapi.md
+apis: []
 x-common:
 - type: x-hacker-news-search
   url: Amazon Kinesis

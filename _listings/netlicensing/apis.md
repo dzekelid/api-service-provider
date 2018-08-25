@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/netlicensing/apis.md
 specificationVersion: "0.14"
-apis:
-- name: NetLicensing
-  x-api-slug: netlicensing
-  description: Labs64 NetLicensing is a first-class solution in the Licensing-as-a-Service
-    (LaaS) sector. Based on open standards, it provides a cost effective, integrated
-    and scalable platform for software vendors and developers who want to concentrate
-    on their product&rsquo;s core functionality instead of spending resources on developing
-    an own license management software.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28466-labs64-net-licensing-restful-api-test-center.jpg
-  humanURL: http://netlicensing.io
-  baseURL: https://go.netlicensing.io//core/v2/rest
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/netlicensing/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://netatmo.api.gallery.streamdata.io

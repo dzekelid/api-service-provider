@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/oneall/apis.md
 specificationVersion: "0.14"
-apis:
-- name: OneAll
-  x-api-slug: oneall
-  description: OneAll Social Login is used by more than 250,000 websites worldwide,
-    including small blogs, growing startups and large corporate enterprises.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/873-oneall-com.jpg
-  humanURL: http://docs.oneall.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/oneall/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://docs.oneall.com/

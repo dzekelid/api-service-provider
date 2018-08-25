@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/hootsuite/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Hootsuite
-  x-api-slug: hootsuite
-  description: Enhance your social media management with Hootsuite, the leading social
-    media dashboard. Manage multiple networks and profiles and measure your campaign
-    results.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1602-hootsuite.jpg
-  humanURL: http://hootsuite.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/hootsuite/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://d2l6uygi1pgnys.cloudfront.net/jsapi/

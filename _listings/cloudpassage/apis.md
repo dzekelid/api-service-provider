@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudpassage/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CloudPassage
-  x-api-slug: cloudpassage
-  description: Automated Security & Compliance for Containers, DevOps, DevSecOps,
-    & Workload Visibility
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1040-cloudpassage.jpg
-  humanURL: http://cloudpassage.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudpassage/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.cloudpassage.com

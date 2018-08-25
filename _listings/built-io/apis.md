@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/built-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Built.io
-  x-api-slug: built-io
-  description: Connect 200+ cloud apps, automate business applications and workflows
-    by creating integrations, and boost productivity using Built.io???s award-winning
-    iPaaS digital platform, Built.io Flow Enterprise. Built.io also offers a headless
-    CMS platform, Conten...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10171-built-io.jpg
-  humanURL: https://www.built.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/built-io/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.built.io/blog/

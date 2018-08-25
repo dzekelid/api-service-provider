@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/domainbox/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Domainbox
-  x-api-slug: domainbox
-  description: Founded in 2011, Domainbox is the complete domain reseller package.
-    Want to become a domain registrar and resell domain names, or take control and
-    consolidate all your domains to one central location? Start today with Domainbox!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1048-domainbox.jpg
-  humanURL: http://www.domainbox.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/domainbox/openapi.md
+apis: []
 x-common:
 - type: x-email
   url: info@domainbox.com

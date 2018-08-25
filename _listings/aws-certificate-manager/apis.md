@@ -19,26 +19,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-certificate-manager/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Certificate Manager API
-  x-api-slug: aws-certificate-manager-api
-  description: AWS Certificate Manager is a service that lets you easily provision,
-    manage, and deploy Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates
-    for use with AWS services. SSL/TLS certificates are used to secure network communications
-    and establish the identity of websites over the Internet. AWS Certificate Manager
-    removes the time-consuming manual process of purchasing, uploading, and renewing
-    SSL/TLS certificates. With AWS Certificate Manager, you can quickly request a
-    certificate, deploy it on AWS resources such as Elastic Load Balancers or Amazon
-    CloudFront distributions, and let AWS Certificate Manager handle certificate renewals.
-    SSL/TLS certificates provisioned through AWS Certificate Manager are free. You
-    pay only for the AWS resources you create to run your application.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_ACM_certificate-manager.png
-  humanURL: https://aws.amazon.com/certificate-manager/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-certificate-manager/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.batch.api.gallery.streamdata.io

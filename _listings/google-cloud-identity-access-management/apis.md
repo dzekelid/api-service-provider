@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-identity-access-management/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Identity & Access Management API
-  x-api-slug: google-cloud-identity--access-management-api
-  description: Google Cloud Identity &amp; Access Management (IAM) lets administrators
-    authorize who can take action on specific resources, giving you full control and
-    visibility to manage cloud resources centrally. For established enterprises with
-    complex organizational structures, hundreds of workgroups and potentially many
-    more projects, Cloud IAM provides a unified view into security policy across your
-    entire organization, with built-in auditing to ease compliance processes.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/right-roles.png
-  humanURL: https://cloud.google.com/iam/
-  baseURL: ://iam.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-identity-access-management/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.functions.api.gallery.streamdata.io

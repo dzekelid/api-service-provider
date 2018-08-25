@@ -14,18 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-app-engine/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google App Engine Admin API
-  x-api-slug: google-app-engine-admin-api
-  description: Use this RESTful API with any programming language to manage your App
-    Engine applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-app-engine-icon.png
-  humanURL: https://cloud.google.com/appengine/
-  baseURL: ://appengine.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-app-engine/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.api.discovery.service.api.gallery.streamdata.io

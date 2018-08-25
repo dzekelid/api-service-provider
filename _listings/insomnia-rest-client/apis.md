@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/insomnia-rest-client/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Insomnia Rest Client
-  x-api-slug: insomnia-rest-client
-  description: Never use CURL again. Store, organize, and execute API requests in
-    a beautiful and elegant interface. Insomnia lets you manage requests in a simple
-    and elegant way, by providing everything you need in an organized interface.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11760-insomnia-rest-client.jpg
-  humanURL: http://insomnia.rest/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/insomnia-rest-client/openapi.md
+apis: []
 x-common:
 - type: x-email
   url: support@insomnia.rest

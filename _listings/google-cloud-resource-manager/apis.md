@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-resource-manager/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Resource Manager API
-  x-api-slug: google-cloud-resource-manager-api
-  description: Google Cloud Platform provides resource containers such as Organizations
-    and Projects, that allow you to group and hierarchically organize other Cloud
-    Platform resources. This hierarchical organization lets you easily manage common
-    aspects of your resources such as access control and configuration settings. The
-    Google Cloud Resource Manager service enables you to programmatically manage these
-    resource containers.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Generic-GCP.png
-  humanURL: https://cloud.google.com/resource-manager/
-  baseURL: ://cloudresourcemanager.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-resource-manager/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.pub.sub.api.gallery.streamdata.io

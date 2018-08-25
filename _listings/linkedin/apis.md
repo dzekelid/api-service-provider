@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/linkedin/apis.md
 specificationVersion: "0.14"
-apis:
-- name: LinkedIn
-  x-api-slug: linkedin
-  description: DZone Software provides tools and processes to help customers accelerate
-    productivity through agile learning and knowledge-centered collaboration.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/221-linkedin.jpg
-  humanURL: http://linkedin.com
-  baseURL: https://api.linkedin.com//v1
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/linkedin/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://link.fish.api.gallery.streamdata.io

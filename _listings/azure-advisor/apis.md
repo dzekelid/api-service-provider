@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-advisor/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Advisor API
-  x-api-slug: azure-advisor-api
-  description: Azure Advisor is a personalized recommendation engine that helps you
-    follow Azure best practices. It analyzes your Azure resource configuration and
-    usage telemetry, then provides recommendations that can reduce costs and improve
-    the performance, security, and reliability of your applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/improve-what-matters.png
-  humanURL: https://azure.microsoft.com/en-us/services/advisor/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-advisor/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aylien.api.gallery.streamdata.io

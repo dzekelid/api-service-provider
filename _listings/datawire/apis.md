@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datawire/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Datawire
-  x-api-slug: datawire
-  description: Datawires open source tools empower developers to rapidly develop resilient
-    microservices on Kubernetes.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19930-datawire.jpg
-  humanURL: https://www.datawire.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datawire/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.datawire.io/blog/

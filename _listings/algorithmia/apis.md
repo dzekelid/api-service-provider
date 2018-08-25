@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/algorithmia/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Algorithmia
-  x-api-slug: algorithmia
-  description: Algorithmia makes applications smarter, by building a community around
-    algorithm development, where state of the art algorithms are always live and accessible
-    to anyone.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11780-algorithmia.jpg
-  humanURL: https://algorithmia.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/algorithmia/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.algorithmia.com/

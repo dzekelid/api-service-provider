@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nordic-apis/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Nordic APIs
-  x-api-slug: nordic-apis
-  description: The number one place for information and resources on API technology
-    and business. Ebooks, events, blog posts and much much more! Come and check us
-    out
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2215-nordic-apis.jpg
-  humanURL: http://nordicapis.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nordic-apis/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://nordicapis.com/blog/

@@ -16,23 +16,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-natural-language/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Natural Language API
-  x-api-slug: google-cloud-natural-language-api
-  description: Google Cloud Natural Language API reveals the structure and meaning
-    of text by offering powerful machine learning models in an easy to use REST API.
-    You can use it to extract information about people, places, events and much more,
-    mentioned in text documents, news articles or blog posts. You can use it to understand
-    sentiment about your product on social media or parse intent from customer conversations
-    happening in a call center or a messaging app. You can analyze text uploaded in
-    your request or integrate with your document storage on Google Cloud Storage.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/powerful-text-analysis-2x.png
-  humanURL: https://cloud.google.com/natural-language/
-  baseURL: ://language.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-natural-language/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.machine.learning.engine.api.gallery.streamdata.io

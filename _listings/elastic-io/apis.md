@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elastic-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Elastic.io
-  x-api-slug: elastic-io
-  description: Microservices-based iPaaS for real-time data synchronisation across
-    disparate cloud-based and on-premise applications, platforms and databases.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/40-elastic-io.jpg
-  humanURL: http://elastic.io
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elastic-io/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://elastic.io

@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apifier/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Apifier
-  x-api-slug: apifier
-  description: Apify extracts data from websites, crawls lists of URLs and automates
-    workflows on the web. Turn any website into an API in a few minutes!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20035-apifier.jpg
-  humanURL: https://www.apifier.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apifier/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.apifier.com/

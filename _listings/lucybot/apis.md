@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lucybot/apis.md
 specificationVersion: "0.14"
-apis:
-- name: LucyBot
-  x-api-slug: lucybot
-  description: At LucyBot, we believe APIs should be easy. We help API providers build
-    developer portals to show off their APIs functionality, automatically generating
-    sample code in several different programming languages and frameworks. This increases
-    API adoption, expands usage among existing users, and alleviates the burden of
-    customer support.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/LucyPNG.png
-  humanURL: https://lucybot.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/lucybot/openapi.md
+apis: []
 x-common:
 - type: x-github
   url: https://github.com/lucybot

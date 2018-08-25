@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/farsight-security/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Farsight Security
-  x-api-slug: farsight-security
-  description: Farsight Security provides real-time actionable cyber security data
-    solutions for Threat Intelligence, SOC and Incident Response teams
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20048-farsight-security.jpg
-  humanURL: https://www.farsightsecurity.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/farsight-security/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.farsightsecurity.com/Blog/

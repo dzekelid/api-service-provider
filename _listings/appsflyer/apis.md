@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appsflyer/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AppsFlyer
-  x-api-slug: appsflyer
-  description: Mobile App Tracking & Attribution Analytics platform that helps App-Developers,
-    Brands and Ad-Agencies track and optimize their users acquisition funnel.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/351-appsflyer.jpg
-  humanURL: http://www.appsflyer.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appsflyer/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://www.appsflyer.com

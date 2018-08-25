@@ -32,40 +32,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cloudhsm/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS CloudHSM API
-  x-api-slug: aws-cloudhsm-api
-  description: The AWS CloudHSM service helps you meet corporate, contractual and
-    regulatory compliance requirements for data security by using dedicated Hardware
-    Security Module (HSM) appliances within the AWS cloud. With CloudHSM, you control
-    the encryption keys and cryptographic operations performed by the HSM.AWS and
-    AWS Marketplace partners offer a variety of solutions for protecting sensitive
-    data within the AWS platform, but for applications and data subject to rigorous
-    contractual or regulatory requirements for managing cryptographic keys, additional
-    protection is sometimes necessary. Until now, your only option was to store the
-    sensitive data (or the encryption keys protecting the sensitive data) in your
-    on-premises datacenters. Unfortunately, this either prevented you from migrating
-    these applications to the cloud or significantly slowed their performance. The
-    AWS CloudHSM service allows you to protect your encryption keys within HSMs designed
-    and validated to government standards for secure key management. You can securely
-    generate, store, and manage the cryptographic keys used for data encryption such
-    that they are accessible only by you. AWS CloudHSM helps you comply with strict
-    key management requirements without sacrificing application performance.The AWS
-    CloudHSM service works with Amazon Virtual Private Cloud (VPC). CloudHSM instances
-    are provisioned inside your VPC with an IP address that you specify, providing
-    simple and private network connectivity to your Amazon Elastic Compute Cloud (EC2)
-    instances. Placing CloudHSM instances near your EC2 instances decreases network
-    latency, which can improve application performance. AWS provides dedicated and
-    exclusive (single tenant) access to CloudHSM instances, isolated from other AWS
-    customers. Available in multiple Regions and Availability Zones (AZs), AWS CloudHSM
-    allows you to add secure and durable key storage to your applications.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSCloudHSM.png
-  humanURL: https://aws.amazon.com/cloudhsm/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cloudhsm/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.cloudfront.api.gallery.streamdata.io

@@ -11,29 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gitter/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Gitter API
-  x-api-slug: gitter-api
-  description: Gitter is a chat and networking platform that helps to manage, grow
-    and connect communities through messaging, content and discovery.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gitter-logo.png
-  humanURL: http://gitter.im
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gitter/openapi.md
-- name: Gitter Streaming API
-  x-api-slug: gitter-streaming-api
-  description: Gitter is a chat and networking platform that helps to manage, grow
-    and connect communities through messaging, content and discovery.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gitter-logo.png
-  humanURL: http://gitter.im
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gitter/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://gitlab.api.gallery.streamdata.io

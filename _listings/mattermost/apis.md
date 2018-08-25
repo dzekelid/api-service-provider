@@ -12,31 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/mattermost/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Mattermost API
-  x-api-slug: mattermost-api
-  description: Open source, private cloud Slack-alternative, Workplace messaging for
-    web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure,
-    configurable, and scalable from teams to the enterprise.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
-  humanURL: https://mattermost.com
-  baseURL: https://your-mattermost-url.com//api/v4
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/mattermost/openapi.md
-- name: Mattermost Websocket API
-  x-api-slug: mattermost-websocket-api
-  description: Open source, private cloud Slack-alternative, Workplace messaging for
-    web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure,
-    configurable, and scalable from teams to the enterprise.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
-  humanURL: https://mattermost.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/mattermost/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://matrix.api.gallery.streamdata.io

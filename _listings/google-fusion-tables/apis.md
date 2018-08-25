@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-fusion-tables/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Fusion Tables API
-  x-api-slug: google-fusion-tables-api
-  description: Fusion Tables is an experimental data visualization web application
-    to gather, visualize, and share data tables.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fusion-tables.jpg
-  humanURL: https://developers.google.com/fusiontables/
-  baseURL: ://www.googleapis.com//fusiontables/v2
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-fusion-tables/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.fonts.api.gallery.streamdata.io

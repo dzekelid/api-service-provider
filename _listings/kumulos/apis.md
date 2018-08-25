@@ -11,19 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/kumulos/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Kumulos
-  x-api-slug: kumulos
-  description: Made for the business of mobile app development, Kumulos helps you
-    manage the commercial and technical performance of Apps, so you drive a better
-    outcome.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/121-kumulos.jpg
-  humanURL: http://www.kumulos.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/kumulos/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.kumulos.com/blog/

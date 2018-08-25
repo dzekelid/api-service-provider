@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/internap/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Internap
-  x-api-slug: internap
-  description: 'Internap Corporation (NASDAQ: INAP) is a leading technology provider
-    of Internet infrastructure through both Colocation Business and Enterprise Services
-    (including network connectivity, IP, bandwidth, and Managed Hosting), and Cloud
-    Services (including...'
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
-  humanURL: http://www.internap.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/internap/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/internap

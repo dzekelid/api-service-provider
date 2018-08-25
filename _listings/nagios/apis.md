@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nagios/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Nagios
-  x-api-slug: nagios
-  description: Nagios provides enterprise-class Open Source IT monitoring, network
-    monitoring, server and applications monitoring. Download Nagios Today!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19943-nagios.jpg
-  humanURL: https://www.nagios.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/nagios/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.nagios.org/news/

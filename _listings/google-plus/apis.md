@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-plus/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Plus
-  x-api-slug: google-plus
-  description: Create a more engaging experience and connect with more users by integrating
-    social into your web site. Show profile information, and relevant content and
-    connections from circles. Let visitors recommend and share your content, and prompt
-    friends to take specific actions on your site.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-plus.png
-  humanURL: https://plus.google.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-plus/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.play.api.gallery.streamdata.io

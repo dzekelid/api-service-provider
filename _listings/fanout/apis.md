@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/fanout/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Fanout
-  x-api-slug: fanout
-  description: Fanout???s reverse proxy helps you push data to connected devices instantly.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2168-fanout.jpg
-  humanURL: https://fanout.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/fanout/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.fanout.io/

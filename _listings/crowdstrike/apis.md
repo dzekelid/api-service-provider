@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crowdstrike/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Crowdstrike
-  x-api-slug: crowdstrike
-  description: CrowdStrike is the leader in next-generation endpoint protection, threat
-    intelligence and incident response through cloud-based endpoint protection.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20044-crowdstrike.jpg
-  humanURL: https://www.crowdstrike.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/crowdstrike/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.crowdstrike.com/blog/

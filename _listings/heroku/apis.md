@@ -11,17 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/heroku/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Heroku
-  x-api-slug: heroku
-  description: Learn about building, deploying and managing your apps on Heroku.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/211-heroku.jpg
-  humanURL: http://heroku.com
-  baseURL: https://api.heroku.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/heroku/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://here.api.gallery.streamdata.io

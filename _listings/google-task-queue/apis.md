@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-task-queue/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Task Queue API
-  x-api-slug: google-task-queue-api
-  description: The Task Queue API lets applications perform work, called tasks, asynchronously
-    outside of a user request. If an app needs to execute work in the background,
-    it adds tasks to task queues. The tasks are executed later, by scalable App Engine
-    worker services in your application.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hands-on-app-engine-11-638.jpg
-  humanURL: https://cloud.google.com/appengine/docs/standard/python/taskqueue/
-  baseURL: ://www.googleapis.com//taskqueue/v1beta2/projects
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-task-queue/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.tag.manager.api.gallery.streamdata.io

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/goa/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Goa
-  x-api-slug: goa
-  description: goa is a code generation framework built in Go that provides the developer
-    with a clear and concise path to generate idiomatic API and Microservice architectures
-    by using a design-first methodology.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19918-goa.jpg
-  humanURL: https://goa.design/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/goa/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://goa.design/blog/004-xray/

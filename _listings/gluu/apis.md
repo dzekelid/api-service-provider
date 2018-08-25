@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gluu/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Gluu
-  x-api-slug: gluu
-  description: Gluu allows Organizations to safely manage identity security. Gluu
-    supports SAML2.0, OpenID Content, idp shibboleth, idp saml, open source sso, active
-    directory saml. Free Trial Available.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10213-gluu.jpg
-  humanURL: http://www.gluu.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/gluu/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.gluu.org/blog/

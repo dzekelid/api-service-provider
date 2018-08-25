@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/learnifier/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Learnifier
-  x-api-slug: learnifier
-  description: Create your online courses in minutes. Learnifier is the fast and easy
-    tool for creating and sharing great courses that work on your mobile, tablet and
-    desktop. Book a DEMO or test it out with our FREE TRIAL.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28448-learnifier.jpg
-  humanURL: http://learnifier.com
-  baseURL: https://learnifier.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/learnifier/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://launchdarkly.api.gallery.streamdata.io

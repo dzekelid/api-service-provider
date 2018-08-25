@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-logic-apps/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Logic Apps API
-  x-api-slug: azure-logic-apps-api
-  description: You can connect apps, data, and devices anywhere&mdash;on-premises
-    or in the cloud&mdash;with our large ecosystem of software as a service (SaaS)
-    and cloud-based connectors that includes Salesforce, Office 365, Twitter, Dropbox,
-    Google services, and more. Its never been easier to access data and keep your
-    disparate systems up-to-date, in real-time. New connectors are being added to
-    the Azure Marketplace all of the time.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-logic-apps-01-connectors.png
-  humanURL: https://azure.microsoft.com/en-us/services/logic-apps/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-logic-apps/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.key.vault.api.gallery.streamdata.io

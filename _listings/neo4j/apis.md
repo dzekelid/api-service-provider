@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/neo4j/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Neo4j
-  x-api-slug: neo4j
-  description: 'Meet Neo4j: The graph database platform powering todays mission-critical
-    enterprise applications, including artificial intelligence, fraud detection and
-    recommendations.'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18635-neo4j.jpg
-  humanURL: http://neo4j.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/neo4j/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://neo4j.com/blog/

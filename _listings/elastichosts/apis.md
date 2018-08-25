@@ -11,20 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elastichosts/apis.md
 specificationVersion: "0.14"
-apis:
-- name: 'ElasticHosts Cloud Computing '
-  x-api-slug: elastichosts-cloud-computing-
-  description: Our ReSTful HTTP cloud computing API allows users to create drives,
-    upload and download drive images, and create and control virtual servers on our
-    infrastructure.  You can download our ready-made command line tools, or make direct
-    calls to the API from your own scripts.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/769-elastichosts.jpg
-  humanURL: http://www.elastichosts.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elastichosts/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://api-lon-p.elastichosts.com/#sthash.vWizLzpd.dpuf

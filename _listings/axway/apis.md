@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/axway/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Axway
-  x-api-slug: axway
-  description: The Axway AMPLIFY platform unifies your employees, suppliers, partners
-    and developers to create a powerful Customer Experience Network.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21-axway.jpg
-  humanURL: http://axway.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/axway/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://axway.com

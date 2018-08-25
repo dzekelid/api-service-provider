@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-biquery/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google BigQuery API
-  x-api-slug: google-bigquery-api
-  description: BigQuery is Googles fully managed, petabyte scale, low cost enterprise
-    data warehouse for analytics. BigQuery is serverless. There is no infrastructure
-    to manage and you dont need a database administrator, so you can focus on analyzing
-    data to find meaningful insights using familiar SQL. BigQuery is a powerful Big
-    Data analytics platform used by all types of organizations, from startups to Fortune
-    500 companies.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/BigQuery_500px.png
-  humanURL: https://cloud.google.com/bigquery/
-  baseURL: ://www.googleapis.com//bigquery/v2
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-biquery/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.beacons.api.gallery.streamdata.io

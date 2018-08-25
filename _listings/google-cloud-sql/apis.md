@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-sql/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud SQL API
-  x-api-slug: google-cloud-sql-api
-  description: Cloud SQL is a fully-managed database service that makes it easy to
-    set up, maintain, manage, and administer your relational PostgreSQL BETA and MySQL
-    databases in the cloud. Cloud SQL offers high performance, scalability, and convenience.
-    Hosted on Google Cloud Platform, Cloud SQL provides a database infrastructure
-    for applications running anywhere.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-sql-lead-2x.png
-  humanURL: https://cloud.google.com/sql/
-  baseURL: ://www.googleapis.com//sql/v1beta4
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-sql/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.spanner.api.gallery.streamdata.io

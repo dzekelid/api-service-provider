@@ -17,22 +17,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/digitalocean/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Digital Ocean
-  x-api-slug: digital-ocean
-  description: Digital Ocean is a cloud server and cloud hosting service. Digital
-    Ocean offers developers a service to manage and control their virtual servers
-    and SSD cloud servers in the cloud. The Digital Ocean API allows developers to
-    access and integrate the functionality of Digital Ocean with other applications.
-    Some example API methods include managing domains, managing files, and managing
-    account and server information.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DO_Logo_Horizontal_Black-3500c326.png
-  humanURL: https://www.digitalocean.com
-  baseURL: https://example.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/digitalocean/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://digital.river.api.gallery.streamdata.io

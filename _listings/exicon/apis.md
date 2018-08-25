@@ -12,20 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/exicon/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Exicon
-  x-api-slug: exicon
-  description: Exicon brings your digital idea to life. From finding a developer,
-    mobile   strategy, and design to implementation, analytics and management. We
-    have   years of experience in various industries and knowledge of the latest   trends.
-    Create mobile app...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/91-exicon.jpg
-  humanURL: http://www.exiconglobal.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/exicon/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://www.exiconglobal.com

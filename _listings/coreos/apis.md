@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/coreos/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CoreOS
-  x-api-slug: coreos
-  description: Learn more about how CoreOS and Red Hat have joined forces to extend
-    the value of containers and Kubernetes with OpenShift Container Platform.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11505-coreos-linux.jpg
-  humanURL: https://coreos.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/coreos/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://coreos.com/blog/

@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-tasks/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Tasks API
-  x-api-slug: google-tasks-api
-  description: The Google Tasks API lets you search, read, and update Google Tasks
-    content and metadata. This document describes how to use a RESTful calling style
-    and client libraries for various programming languages (currently Java, Python,
-    and PHP) to access and edit Google Tasks data.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-tasks-icon.png
-  humanURL: https://developers.google.com/google-apps/tasks/
-  baseURL: ://www.googleapis.com//tasks/v1
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-tasks/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.task.queue.api.gallery.streamdata.io

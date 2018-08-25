@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/everydeveloper/apis.md
 specificationVersion: "0.14"
-apis:
-- name: EveryDeveloper
-  x-api-slug: everydeveloper
-  description: ""
-  image: ""
-  humanURL: http://everydeveloper.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/everydeveloper/openapi.md
+apis: []
 x-common:
 - type: x-blog-rss
   url: http://everydeveloper.com/feed/

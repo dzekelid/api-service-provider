@@ -19,26 +19,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-key-vault/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Key Vault API
-  x-api-slug: azure-key-vault-api
-  description: Azure Key Vault offers an easy, cost-effective way to safeguard keys
-    and other secrets in the cloud by using hardware security modules (HSMs). Protect
-    cryptographic keys and small secrets like passwords with keys stored in HSMs.
-    For added assurance, import or generate your keys in HSMs that are certified to
-    FIPS 140-2 level 2 and Common Criteria EAL4+ standards, so that your keys stay
-    within the HSM boundary. Key Vault is designed so that Microsoft does not see
-    or extract your keys. Create new keys for Dev-Test in minutes and migrate seamlessly
-    to production keys managed by security operations. Key Vault scales to meet the
-    demands of your cloud applications without the hassle required to provision, deploy,
-    and manage HSMs and key management software.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png
-  humanURL: https://azure.microsoft.com/en-us/services/key-vault/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-key-vault/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.iot.hub.api.gallery.streamdata.io

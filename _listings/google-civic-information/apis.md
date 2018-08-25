@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-civic-information/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Civic Information API
-  x-api-slug: google-civic-information-api
-  description: The Google Civic Information API lets developers build applications
-    that display civic information to their users. For any U.S. residential address,
-    you can look up who represents that address at each elected level of government.
-    During supported elections, you can also look up polling places, early vote location,
-    candidate data, and other election official information.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-civic-information-api.png
-  humanURL: https://developers.google.com/civic-information/
-  baseURL: ://www.googleapis.com//civicinfo/v2
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-civic-information/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.calendar.api.gallery.streamdata.io

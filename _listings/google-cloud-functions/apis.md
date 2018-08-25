@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-functions/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Functions API
-  x-api-slug: google-cloud-functions-api
-  description: Cloud computing has made possible fully serverless models of computing
-    where logic can be spun up on-demand in response to events originating from anywhere.
-    Construct applications from bite-sized business logic billed to the nearest 100
-    milliseconds, only while your code is running. Serve users from zero to planet-scale,
-    all without managing any infrastructure.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cloud-Functions.png
-  humanURL: https://cloud.google.com/functions/
-  baseURL: ://cloudfunctions.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-functions/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.dns.api.gallery.streamdata.io

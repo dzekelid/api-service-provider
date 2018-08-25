@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-deployment-manager/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Deployment Manager
-  x-api-slug: google-cloud-deployment-manager
-  description: Google Cloud Deployment Manager allows you to specify all the resources
-    needed for your application in a declarative format using yaml. You can also use
-    Python or Jinja2 templates to parameterize the configuration and allow reuse of
-    common deployment paradigms such as a load balanced, auto-scaled instance group.
-    Treat your configuration as code and perform repeatable deployments.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/repeatable-deployment-process.png
-  humanURL: https://cloud.google.com/deployment-manager/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-deployment-manager/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.datastore.api.gallery.streamdata.io

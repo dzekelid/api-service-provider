@@ -1,16 +1,23 @@
 ---
 name: APIWorld
 x-slug: apiworld
-description: API World 2014 is the largest API conference + expo thats 100% dedicated
-  to developers. That means developers can come explore dozens of APIs that can augment,
-  analyze, or monetize their apps. We also offer talks about developing APIs so your
-  technology can be part of a larger app ecosystem. Our goal is to place API World
-  at the center of the emerging API Economy. Just as the world wide web is an open
-  network of information that the end user can search and consume, the API Economy
-  is an open network of data, services, and activities that connect technology to
-  other technology. Just as the web makes information connected, APIs make technology
-  connected.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-world-logo.png
+description: 'If you&rsquo;re a tech company, you are likely publishing or consuming
+  API&rsquo;s already.API World is the first large-scale conference and expo with
+  the goal of organizing this new API Economy. The API World 2018 Conference and Expo
+  was created with the mission to be neutral and facilitate connections, knowledge,
+  trust and business within the developer community of API providers and consumers.
+  If you are a coder, a startup or an enterprise that consumes or provides multiple
+  APIs this is your event.Decentralization: The move to APIs follows a technology-wide
+  trend towards decentralization that includes Agile methodologies and the DevOps
+  movement. Beyond the decentralization of public web services, we are seeking the
+  decoupling of monolithic API infrastructure into microservices. The rise of containers
+  and kubernetes for rapid deployment, scalability, orchestration of microservices
+  moves us further towards decentralization. The new movements towards API and microservice
+  protocols and serverless architecture reinforces this move towards decentralization.
+  The theme of API World 2018 is the move towards decentralization of both public-facing
+  and internal API architecture.The next conference is September 10&ndash;12, 2018
+  | San Jose Convention Center.'
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-world.jpg
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: API Service Provider
@@ -18,26 +25,12 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apiworld/apis.md
 specificationVersion: "0.14"
-apis:
-- name: APIWorld
-  x-api-slug: apiworld
-  description: API World 2014 is the largest API conference + expo thats 100% dedicated
-    to developers. That means developers can come explore dozens of APIs that can
-    augment, analyze, or monetize their apps. We also offer talks about developing
-    APIs so your technology can be part of a larger app ecosystem. Our goal is to
-    place API World at the center of the emerging API Economy. Just as the world wide
-    web is an open network of information that the end user can search and consume,
-    the API Economy is an open network of data, services, and activities that connect
-    technology to other technology. Just as the web makes information connected, APIs
-    make technology connected.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-world-logo.png
-  humanURL: http://apiworld.co/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apiworld/openapi.md
+apis: []
 x-common:
+- type: x-twitter-search
+  url: '#APIWorld'
+- type: x-website
+  url: http://apiworld.co
 - type: x-twitter
   url: https://twitter.com/apiworld
 - type: x-website

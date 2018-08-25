@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datahero/apis.md
 specificationVersion: "0.14"
-apis:
-- name: DataHero
-  x-api-slug: datahero
-  description: DataHero is an online data visualization and data dashboard software
-    platform that makes it easy to share insights with your team and your clients.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11275-datahero.jpg
-  humanURL: https://datahero.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datahero/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://datahero.com/blog/

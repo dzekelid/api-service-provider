@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/dell-boomi/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Dell Boomi
-  x-api-slug: dell-boomi
-  description: 'The #1 Integration Cloud - Connect Everything, Engage Everywhere and
-    Run Anywhere with Boomis industry leading iPaaS platform.'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18701-dell-boomi.jpg
-  humanURL: http://www.boomi.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/dell-boomi/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blogs.boomi.com/bod/

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ardoq/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Ardoq
-  x-api-slug: ardoq
-  description: Ardoq provides SaaS alternatives to enterprise architecture and software
-    documentation. Our model based system focuses on automation, visualisation and
-    democratisation of documentation.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18595-ardoq.jpg
-  humanURL: http://ardoq.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/ardoq/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://ardoq.com/blog/

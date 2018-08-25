@@ -21,28 +21,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/launchdarkly/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Launch Darkly
-  x-api-slug: launch-darkly
-  description: Our vision is to eliminate risk for developers and operations teams
-    from the software development cycle. As companies transition to a world built
-    on software, there is an increasing requirement to move quickly&mdash;but that
-    often comes with the desire to maintain control. LaunchDarkly is the feature management
-    platform that enables dev and ops teams to control the whole feature lifecycle,
-    from concept to launch to value. Feature flagging is an industry best practice
-    of wrapping a new or risky section of code or infrastructure change with a flag.
-    Each flag can easily be turned on/off independent of code deployment (aka &rdquo;dark
-    launching&rdquo;). Equipping businesses with the ability to move at the speed
-    of every deploy allows an entire company to learn rapidly, deliver value to their
-    customers faster, and produce more value. Developers can build, marketing can
-    launch, product can iterate, and sales can sell.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21652-launchdarkly-com.jpg
-  humanURL: http://www.launchdarkly.com
-  baseURL: https://app.launchdarkly.com//api/v2
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/launchdarkly/openapi.md
+apis: []
 x-common:
 - type: x-website
   url: http://www.launchdarkly.com

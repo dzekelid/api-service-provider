@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-billing/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Cloud Billing API
-  x-api-slug: google-cloud-billing-api
-  description: The Google Cloud Billing API provides methods that you can use to programmatically
-    manage billing for your projects in the Google Cloud Platform.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Generic-GCP.png
-  humanURL: https://cloud.google.com/billing/docs/
-  baseURL: ://cloudbilling.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-cloud-billing/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.classroom.api.gallery.streamdata.io

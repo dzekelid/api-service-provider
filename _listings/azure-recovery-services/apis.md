@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-recovery-services/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Recovery Service API
-  x-api-slug: azure-recovery-service-api
-  description: Learn how to use Site Recovery for business continuity and disaster
-    recovery strategy for private clouds. Tutorials and other documentation show you
-    how to plan, deploy, and manage the orchestration of replicating on-premises physical
-    servers and virtual machines to the cloud or to a secondary datacenter.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-site-recovery.png
-  humanURL: https://azure.microsoft.com/en-us/services/site-recovery/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-recovery-services/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.notification.hubs.api.gallery.streamdata.io

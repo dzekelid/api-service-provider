@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/kantanmt-com/apis.md
 specificationVersion: "0.14"
-apis:
-- name: KantanMT.com
-  x-api-slug: kantanmt-com
-  description: KantanMT is a cloud-based statistical machine translation platform.
-    We provide high-quality MT services using the power and flexibility of the cloud.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2045-kantanmt-com.jpg
-  humanURL: http://www.kantanmt.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/kantanmt-com/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://machinetranslation.wordpress.com/

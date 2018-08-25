@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/dns-made-easy/apis.md
 specificationVersion: "0.14"
-apis:
-- name: DNS Made Easy Managed DNS API
-  x-api-slug: dns-made-easy-managed-dns-api
-  description: Get the fastest & best-valued DNS services at DNS Made Easy. We provide
-    top tier Enterprise DNS services on our 100% uptime guaranteed IP Anycast+ network.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/763-dns-made-easy.jpg
-  humanURL: http://www.dnsmadeeasy.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/dns-made-easy/openapi.md
+apis: []
 x-common:
 - type: x-affiliate-program
   url: http://www.dnsmadeeasy.com/integration/affiliateprogram/

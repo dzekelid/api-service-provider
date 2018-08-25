@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/buffer/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Buffer
-  x-api-slug: buffer
-  description: Buffer is an intuitive social media management platform trusted by
-    brands, businesses, agencies, and individuals to help drive social media results.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/994-buffer.jpg
-  humanURL: http://bufferapp.com
-  baseURL: https://api.bufferapp.com//1/
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/buffer/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://browshot.api.gallery.streamdata.io

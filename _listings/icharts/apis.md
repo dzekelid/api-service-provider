@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/icharts/apis.md
 specificationVersion: "0.14"
-apis:
-- name: iCharts
-  x-api-slug: icharts
-  description: Real-time business intelligence reporting and analytics for NetSuite
-    and Google Cloud. iCharts BI is the native visual reporting application for NetSuite.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1074-icharts.jpg
-  humanURL: http://www.icharts.net
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/icharts/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: http://icharts.net/icharts/

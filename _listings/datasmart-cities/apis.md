@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datasmart-cities/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Data-Smart Cities
-  x-api-slug: datasmart-cities
-  description: ""
-  image: http://pbs.twimg.com/profile_images/568431735893807104/IpYFd_yy_normal.png
-  humanURL: http://datasmart.ash.harvard.edu/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datasmart-cities/openapi.md
+apis: []
 x-common:
 - type: x-blog-rss
   url: http://datasmart.ash.harvard.edu/feeds

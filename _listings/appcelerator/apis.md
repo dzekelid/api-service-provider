@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appcelerator/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Appcelerator
-  x-api-slug: appcelerator
-  description: Axway Appcelerator solutions help you deliver native cross-platform
-    apps, mobilize any data source, and drive success with real-time analytics
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/59-appcelerator.jpg
-  humanURL: http://www.appcelerator.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appcelerator/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.appcelerator.com/blog/

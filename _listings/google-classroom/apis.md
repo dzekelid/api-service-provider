@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-classroom/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Classroom API
-  x-api-slug: google-classroom-api
-  description: Google Classroom is mission control for your classes. As a free service
-    for teachers and students, you can create classes, distribute assignments, send
-    feedback, and see everything in one place. Instant. Paperless. Easy.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-classroom.png
-  humanURL: https://classroom.google.com/
-  baseURL: ://classroom.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-classroom/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.civic.information.api.gallery.streamdata.io

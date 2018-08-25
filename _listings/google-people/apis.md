@@ -17,24 +17,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-people/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google People API
-  x-api-slug: google-people-api
-  description: The People API lets you list authenticated users Contacts and retrieve
-    profile information for authenticated users and their contacts. For example, lets
-    say the authenticated user, Jen, has Fabian and Ranjith in her private contacts.
-    When your app calls people.connections.list to retrieve a list of her connections,
-    Jen is presented with a consent screen asking to give the app access to the list.
-    If Jen consents, the app retrieves a list containing Fabian and Ranjith (with
-    a resource name for each person). The app can then call people.get, passing in
-    a resource name, to get private contact and public profile data for each person.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-people.png
-  humanURL: https://developers.google.com/people/
-  baseURL: ://people.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-people/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.partners.api.gallery.streamdata.io

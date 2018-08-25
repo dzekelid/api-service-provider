@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apsalar/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Apsalar
-  x-api-slug: apsalar
-  description: Apsalar provides mobile app attribution and audience building services
-    that optimize marketing effectiveness and drive maximum ROI.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/690-apsalar.jpg
-  humanURL: http://apsalar.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apsalar/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://apsalar.com/blog/

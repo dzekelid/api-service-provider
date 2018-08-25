@@ -14,21 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cloudsearch/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS CloudSearch
-  x-api-slug: aws-cloudsearch
-  description: Amazon CloudSearch is a managed service in the AWS Cloud that makes
-    it simple and cost-effective to set up, manage, and scale a search solution for
-    your website or application.Amazon CloudSearch supports 34 languages and popular
-    search features such as highlighting, autocomplete, and geospatial search. For
-    more information, see Benefits.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonCloudSearch.png
-  humanURL: https://aws.amazon.com/cloudsearch/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cloudsearch/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.cloudhsm.api.gallery.streamdata.io

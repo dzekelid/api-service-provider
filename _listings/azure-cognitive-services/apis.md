@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-cognitive-services/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Cognitive Services
-  x-api-slug: azure-cognitive-services
-  description: Enable natural and contextual interaction with tools that augment users
-    experiences using the power of machine-based intelligence. Tap into an ever-growing
-    collection of powerful artificial intelligence algorithms for vision, speech,
-    language, and knowledge.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cognitive-services.png
-  humanURL: https://azure.microsoft.com/en-us/services/cognitive-services/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-cognitive-services/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.cdn.api.gallery.streamdata.io

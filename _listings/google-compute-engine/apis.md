@@ -12,20 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-compute-engine/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Compute Engine API
-  x-api-slug: google-compute-engine-api
-  description: Google Compute Engine delivers virtual machines running in Googles
-    innovative data centers and worldwide fiber network. Compute Engines tooling and
-    workflow support enable scaling from single instances to global, load-balanced
-    cloud computing.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google_Compute_Engine_logo.png
-  humanURL: https://cloud.google.com/compute/
-  baseURL: ://www.googleapis.com//compute/v1/projects
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-compute-engine/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.cloud.vision.api.gallery.streamdata.io

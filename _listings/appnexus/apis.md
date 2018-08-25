@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appnexus/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AppNexus
-  x-api-slug: appnexus
-  description: AppNexus is a technology company that provides trading solutions and
-    powers marketplaces for Internet advertising. Its open, unified, and powerful
-    programmatic platform empowers customers to more effectively buy and sell media,
-    allowing them to innovat...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2633-appnexus.jpg
-  humanURL: http://www.appnexus.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appnexus/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://blog.appnexus.com/

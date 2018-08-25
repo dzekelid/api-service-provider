@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/oauth-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: oAuth.io
-  x-api-slug: oauth-io
-  description: Integrate 100+ OAuth providers in minutes. Setup your keys, install
-    oauth.js, and you are ready to play !
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2715-oauth-io.jpg
-  humanURL: https://oauth.io/home/pricing
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/oauth-io/openapi.md
+apis: []
 x-common:
 - type: x-base
   url: https://oauth.io

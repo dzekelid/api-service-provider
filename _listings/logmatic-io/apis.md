@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/logmatic-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Logmatic.io
-  x-api-slug: logmatic-io
-  description: Log Centralization, Analytics & Visualization in one Log Analyzer to
-    Improve Software & Business Performance. 100% Cloud Based, No Agent, Free Trial!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19913-logmatic-io.jpg
-  humanURL: https://logmatic.io
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/logmatic-io/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://logmatic.io/blog/

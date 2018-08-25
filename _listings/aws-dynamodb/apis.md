@@ -15,23 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-dynamodb/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Amazon DynamoDB API
-  x-api-slug: amazon-dynamodb-api
-  description: Amazon DynamoDB is a fast and flexible NoSQL database service for all
-    applications that need consistent, single-digit millisecond latency at any scale.
-    It is a fully managed cloud database and supports both document and key-value
-    store models. Its flexible data model and reliable performance make it a great
-    fit for mobile, web, gaming, ad tech, IoT, and many other applications. Start
-    today by downloading the local version of DynamoDB, then read our Getting Started
-    Guide.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Database_AmazonDynamoDB.png
-  humanURL: https://aws.amazon.com/dynamodb/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-dynamodb/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.directory.service.api.gallery.streamdata.io

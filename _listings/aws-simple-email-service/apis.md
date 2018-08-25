@@ -13,21 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-simple-email-service/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS Simple Email Service API
-  x-api-slug: aws-simple-email-service-api
-  description: Amazon Simple Email Service (Amazon SES) is a cost-effective email
-    service built on the reliable and scalable infrastructure that Amazon.com developed
-    to serve its own customer base. With Amazon SES, you can send and receive email
-    with no required minimum commitments &ndash; you pay as you go, and you only pay
-    for what you use.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Application-Services_AmazonSES.png
-  humanURL: https://aws.amazon.com/ses/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-simple-email-service/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.shield.api.gallery.streamdata.io

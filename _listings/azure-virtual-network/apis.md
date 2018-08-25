@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-virtual-network/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Virtual Network API
-  x-api-slug: azure-virtual-network-api
-  description: Azure Virtual Network lets you create private networks in the cloud
-    with full control over IP addresses, DNS servers, security rules, and traffic
-    flows. Securely connect a virtual network to on-premises networks by using a VPN
-    tunnel, or connect privately by using the ExpressRoute service.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-network-topology.png
-  humanURL: https://azure.microsoft.com/en-us/services/virtual-network/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-virtual-network/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.traffic.manager.api.gallery.streamdata.io

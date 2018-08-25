@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appneta/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AppNeta
-  x-api-slug: appneta
-  description: AppNetas award-winning suite of network monitoring tools allow unparalleled
-    SaaS-based application end-user performance monitoring for 100% delivery confidence.
-    Request a free demo!
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11161-appneta.jpg
-  humanURL: http://www.appneta.com/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/appneta/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.appneta.com/blog/

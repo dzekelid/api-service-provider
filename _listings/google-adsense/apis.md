@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-adsense/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Adsense API
-  x-api-slug: google-adsense-api
-  description: AdSense is a free, simple way to make money online by placing ads on
-    your website. Ads are reviewed to ensure they???re high quality and relevant to
-    your content or audience, even when viewed on smartphones and tablets. The result?
-    You can make more money online.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-adsense.png
-  humanURL: https://developers.google.com/adsense/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-adsense/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://gmail.api.gallery.streamdata.io

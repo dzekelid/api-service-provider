@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/blazemeter/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Blazemeter
-  x-api-slug: blazemeter
-  description: BlazeMeter platform for load and performance testing enables dev and
-    QA teams to run scalable and continuous testing for website, mobile, api and software
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1297-blazemeter.jpg
-  humanURL: http://blazemeter.com/
-  baseURL: https://a.blazemeter.com//api/v4
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/blazemeter/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://bitly.api.gallery.streamdata.io

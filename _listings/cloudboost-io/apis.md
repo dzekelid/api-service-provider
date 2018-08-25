@@ -10,17 +10,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudboost-io/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CloudBoost.io
-  x-api-slug: cloudboost-io
-  description: CloudBoost lets you build mobile and web applications that scale.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18919-cloudboost-io.jpg
-  humanURL: https://www.cloudboost.io/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/cloudboost-io/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.cloudboost.io/

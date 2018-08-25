@@ -11,18 +11,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elasticsearch/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Elasticsearch
-  x-api-slug: elasticsearch
-  description: Were the creators of Elasticsearch, Kibana, Beats, and Logstash --
-    the Elastic Stack. Securely and reliably search, analyze, and visualize your data.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1910-elasticsearch.jpg
-  humanURL: http://www.elasticsearch.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elasticsearch/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.elasticsearch.org/blog/

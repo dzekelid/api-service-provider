@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cloudfront/apis.md
 specificationVersion: "0.14"
-apis:
-- name: AWS CloudFront API
-  x-api-slug: aws-cloudfront-api
-  description: Amazon CloudFront is a global content delivery network (CDN) service
-    that accelerates delivery of your websites, APIs, video content or other web assets.
-    It integrates with other Amazon Web Services products to give developers and businesses
-    an easy way to accelerate content to end users with no minimum usage commitments.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Storage-Content-Delivery_AmazonCloudFront.png
-  humanURL: https://aws.amazon.com/cloudfront/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-cloudfront/openapi.md
+apis: []
 x-common:
 - type: x-analysis
   url: https://aws.amazon.com/cloudfront/reporting/

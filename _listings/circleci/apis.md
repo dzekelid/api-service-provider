@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/circleci/apis.md
 specificationVersion: "0.14"
-apis:
-- name: CircleCI
-  x-api-slug: circleci
-  description: CircleCI???s continuous integration and delivery platform makes it
-    easy for teams of all sizes to rapidly build and release quality software at scale.  Build
-    for Linux, macOS, and Android, in the cloud or behind your firewall.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28120-circleci.jpg
-  humanURL: http://circleci.com
-  baseURL: https://circleci.com//api/v1
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/circleci/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://charity.navigator.api.gallery.streamdata.io

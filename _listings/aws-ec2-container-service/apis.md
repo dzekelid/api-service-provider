@@ -19,27 +19,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-ec2-container-service/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Amazon EC2 Container Service API
-  x-api-slug: amazon-ec2-container-service-api
-  description: Amazon EC2 Container Service (ECS) is a highly scalable, high performance
-    container management service that supports Docker containers and allows you to
-    easily run applications on a managed cluster of Amazon EC2 instances. Amazon ECS
-    eliminates the need for you to install, operate, and scale your own cluster management
-    infrastructure. With simple API calls, you can launch and stop Docker-enabled
-    applications, query the complete state of your cluster, and access many familiar
-    features like security groups, Elastic Load Balancing, EBS volumes, and IAM roles.
-    You can use Amazon ECS to schedule the placement of containers across your cluster
-    based on your resource needs and availability requirements. You can also integrate
-    your own scheduler or third-party schedulers to meet business or application specific
-    requirements.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonECS.png
-  humanURL: https://aws.amazon.com/ecs/
-  baseURL: :///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/aws-ec2-container-service/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://aws.ec2.container.registry.service.api.gallery.streamdata.io

@@ -14,22 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-container-engine/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Container Engine API
-  x-api-slug: google-container-engine-api
-  description: Google Container Engine is a powerful cluster manager and orchestration
-    system for running your Docker containers. Container Engine schedules your containers
-    into the cluster and manages them automatically based on requirements you define
-    (such as CPU and memory). Its built on the open source Kubernetes system, giving
-    you the flexibility to take advantage of on-premises, hybrid, or public cloud
-    infrastructure.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker-container.png
-  humanURL: https://cloud.google.com/container-engine/
-  baseURL: ://container.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-container-engine/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.consumer.surveys.api.gallery.streamdata.io

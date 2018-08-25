@@ -15,37 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-monitor/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Azure Activity Log API
-  x-api-slug: azure-activity-log-api
-  description: Autoscale is a built-in feature of Cloud Services, Mobile Services,
-    Virtual Machines, and Websites that helps applications perform their best when
-    demand changes. Of course, performance means different things for different applications.
-    Some apps are CPU-bound, others memory-bound. For example, you could have a web
-    app that handles millions of requests during the day and none at night. Autoscale
-    can scale your service by any of these&mdash;or by a custom metric you define.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/manage-monitoring-data.png
-  humanURL: https://azure.microsoft.com/en-us/services/monitor/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-monitor/openapi.md
-- name: Azure Autoscale API
-  x-api-slug: azure-autoscale-api
-  description: Autoscale is a built-in feature of Cloud Services, Mobile Services,
-    Virtual Machines, and Websites that helps applications perform their best when
-    demand changes. Of course, performance means different things for different applications.
-    Some apps are CPU-bound, others memory-bound. For example, you could have a web
-    app that handles millions of requests during the day and none at night. Autoscale
-    can scale your service by any of these&mdash;or by a custom metric you define.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/manage-monitoring-data.png
-  humanURL: https://azure.microsoft.com/en-us/services/monitor/
-  baseURL: ://management.azure.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/azure-monitor/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://azure.media.services.api.gallery.streamdata.io

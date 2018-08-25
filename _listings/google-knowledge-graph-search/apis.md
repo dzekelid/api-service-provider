@@ -15,22 +15,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-knowledge-graph-search/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Google Knowledge Graph Search API
-  x-api-slug: google-knowledge-graph-search-api
-  description: 'The Knowledge Graph Search API lets you find entities in the Google
-    Knowledge Graph. The API uses standard schema.org types and is compliant with
-    the JSON-LD specification. Some examples of how you can use the Knowledge Graph
-    Search API include: Getting a ranked list of the most notable entities that match
-    certain criteria. Predictively completing entities in a search box. Annotating/organizing
-    content using the Knowledge Graph entities.'
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-Knowledge-Graph.jpg
-  humanURL: https://developers.google.com/knowledge-graph/
-  baseURL: ://kgsearch.googleapis.com//
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/google-knowledge-graph-search/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://google.glass.api.gallery.streamdata.io

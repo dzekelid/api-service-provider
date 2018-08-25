@@ -14,22 +14,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/drupal/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Drupal
-  x-api-slug: drupal
-  description: Drupal is content management software. Its used to make many of the
-    websites and applications you use every day. Drupal has great standard features,
-    like easy content authoring, reliable performance, and excellent security. But
-    what sets it apart is its flexibility; modularity is one of its core principles.
-    Its tools help you build the versatile, structured content that dynamic web experiences
-    need.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/drupal-logo.png
-  humanURL: https://www.drupal.org/
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/drupal/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://www.drupal.org/news

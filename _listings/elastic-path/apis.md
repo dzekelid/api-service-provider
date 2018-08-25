@@ -13,20 +13,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elastic-path/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Elastic Path
-  x-api-slug: elastic-path
-  description: Find out why the worlds best brands trust Elastic Path. Our API-based
-    ecommerce software solutions are open, modular and flexible. Built for enterprise
-    from the ground up, they are designed as scalable ecommerce solutions, able to
-    take advantage of an...
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/188-elastic-path.jpg
-  humanURL: http://www.elasticpath.com
-  baseURL: https:///
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/elastic-path/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/elastic-path

@@ -12,19 +12,7 @@ created: "2018-08-25"
 modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/digital-river/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Digital River Shopper API
-  x-api-slug: digital-river-shopper-api
-  description: Digital Riveris a public company that provides global ecommerce, payments
-    and marketing services. In 2013, Digital River processed more than $30 billion
-    in online transactions.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/DigitalRiver_corp_logo_4c2.png
-  humanURL: https://digitalriver.com
-  baseURL: https://store.digitalriver.com//store/{mysite}
-  tags: API Service Provider
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/digital-river/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://dezrez.api.gallery.streamdata.io
