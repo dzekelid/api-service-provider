@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28167-code
 x-kinRank: "7"
 x-alexaRank: "61471"
 tags: API Service Provider
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/codesandbox/apis.md
 specificationVersion: "0.14"
 apis: []

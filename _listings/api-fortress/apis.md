@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2946-api-f
 x-kinRank: "8"
 x-alexaRank: "2924665"
 tags: API Service Provider
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/api-fortress/apis.md
 specificationVersion: "0.14"
 apis: []

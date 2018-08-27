@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11411-appr
 x-kinRank: "8"
 x-alexaRank: "239671"
 tags: API Service Provider
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/apprenda/apis.md
 specificationVersion: "0.14"
 apis: []

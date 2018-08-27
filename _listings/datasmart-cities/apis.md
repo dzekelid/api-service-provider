@@ -6,8 +6,8 @@ image: http://pbs.twimg.com/profile_images/568431735893807104/IpYFd_yy_normal.pn
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: API Service Provider
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/datasmart-cities/apis.md
 specificationVersion: "0.14"
 apis: []

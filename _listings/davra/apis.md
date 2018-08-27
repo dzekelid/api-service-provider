@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2954-davra
 x-kinRank: "7"
 x-alexaRank: "2518460"
 tags: API Service Provider
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/api-service-provider/master/_listings/davra/apis.md
 specificationVersion: "0.14"
 apis: []
